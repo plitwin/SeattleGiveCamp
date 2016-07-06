@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>SeattleGiveCamp - Bike Works</title>
+    <link rel="stylesheet" href="static/style.css" type="text/css" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  </head>
+  <body>
+    <div class="wiki" id="content_view" style="display: block;">
+Last year, volunteers at GiveCamp rebuilt our website using Wordpress. Thank you!<br />
+At Bike Works, we currently accept online donations through Network For Good – an online service. We are currently unhappy with this solution for accepting online donations for the following reasons:<br />
+<ol><li><span style="line-height: 1.5;">In order to donate, donors are redirected to another website that does not have the same look or feel as our website.</span></li><li><span style="line-height: 1.5;">Network For Good charges a 5% fee to process the donation. This is high compared with normal credit card processing fees (2.5-3%).</span></li><li><span style="line-height: 1.5;">Donations made through Network For Good are not deposited into our bank account until the 15th of the following month, meaning that we might not see a donation until up to 45 days after it was made.</span></li></ol><br />
+We propose creating a secure online donation form on our website. After doing research into the options out there, we think that developing a donation solution using Stripe (<a class="wiki_link_ext" href="https://stripe.com/" rel="nofollow">https://stripe.com/</a>) would be fairly straightforward and easy to implement. See this blog post on what another nonprofit did to implement this proposed solution: <a class="wiki_link_ext" href="http://www.samahope.org/using-stripe-accept-recurring-donations/" rel="nofollow">http://www.samahope.org/using-stripe-accept-recurring-donations/</a><br />
+We are open to other solutions (such as how KEXP’s online donation page is presented <a class="wiki_link_ext" href="https://www.kexp.org/donate" rel="nofollow">https://www.kexp.org/donate</a>), but this is the one that would fit our needs best based on our research.<br />
+<br />
+Requirements for any online donation solution include:<br />
+<br />
+<ol><li><span style="line-height: 1.5;">Ability to accept secure, online donations on our website (without sending the user to another site).</span></li><li><span style="line-height: 1.5;">Ability for the donor to make a recurring monthly donation (if they choose).</span></li><li><span style="line-height: 1.5;">Ability for the donor to make an additional donation to cover the credit card processing fees (e.g. asking users to pay an additional 2.9% to cover Stripe’s payment processing fee).</span></li><li><span style="line-height: 1.5;">Ability to collect donor data securely and export via a CSV file so we can import this donation data into our donor database and send donors acknowledgement letters.</span></li></ol><br />
+We currently use WordPress. Online donations are made through Network for Good. We also have an online store on Big Cartel. We use Heartland Payment Systems to process credit card transactions in person and over the phone. There is an online interface for completing transactions, but this seems like it would not integrate well with a custom online payment processing solution. Based on our research into online donation options, we feel that creating a WordPress online form (such as Gravity Forms) and using Stripe to process credit card payments, is our best option. We are open to other solutions as well.
+    </div>
+  </body>
+</html>
