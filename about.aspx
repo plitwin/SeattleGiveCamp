@@ -46,11 +46,11 @@
                 <li>Mike Roshak, Vice President</li>
                 <li>Charles Rundles, Treasurer</li>
                 <li>Suzanna Litwin, Secretary</li>
-                <li>Rena Cummings, Planning Committe Volunteer</li>
-                <li>Sabra Goldick, Planning Committe Volunteer</li>
-                <li>Adrienne Kreft, Planning Committe Volunteer</li>
-                <li>Julie St. George, Planning Committe Volunteer</li>
-                <li>David Rogers, Planning Committe Volunteer</li>
+                <li>Rena Cummings, Planning Committee Volunteer</li>
+                <li>Sabra Goldick, Planning Committee Volunteer</li>
+                <li>Adrienne Kreft, Planning Committee Volunteer</li>
+                <li>Julie St. George, Planning Committee Volunteer</li>
+                <li>David Rogers, Planning Committee Volunteer</li>
             </ul>
         </div>
 
