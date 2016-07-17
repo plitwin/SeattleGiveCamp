@@ -22,14 +22,17 @@
        
         <h3>How do I apply for Seattle GiveCamp?</h3>
         <p>Please access our <b><a href="https://docs.google.com/forms/d/167jmqfl-KAjHqPhMijV9PGnQ4MSsIYb5ikhQnESHePE/viewform">online application</a></b> &nbsp;to submit your organization as a candidate for participation in GiveCamp. The 2016 nonprofit application process is now open and will close on August 1st. If you are interested in receiving more information on Seattle GiveCamp, send us an email at <a href="mailto:info@Seattlegivecamp.org">info@Seattlegivecamp.org</a> to join our mailing list.</p>
-  <!--p>Seattle GiveCamp 2015 has not been planed yet.  To be put on our mailing list email</p--> 
-                  <p>Please gather the following information as you prepare to apply for GiveCamp. You will need to submit all the required documentation at once as our application does not have the capability to save your progress.</p>
+        <blockquote>
+            <p>2016 application deadlines: Early-bird: July 20. Last chance: August 1.</p>
+        </blockquote>
+        <br />
+        <p>Please gather the following information as you prepare to apply for GiveCamp. You will need to submit all the required documentation at once as our application does not have the capability to save your progress.</p>
         
+        <p>We plan to select around 20 to 25 nonprofits to serve this year. This number varies based upon the number of technical volunteers who have committed to help at the event and the scope of the projects. Our ultimate goal is to complete all projects in a weekend.</p>
         <blockquote>
             <p>Keep in mind it is instrumental that your organization has someone with decision-making authority on premises Friday and Sunday and available by phone during the entire GiveCamp weekend.</p>
         </blockquote>
         <br />
-        <p>We plan to select around 20 to 25 nonprofits to serve this year. This number varies based upon the number of technical volunteers who have committed to help at the event and the scope of the projects. Our ultimate goal is to complete all projects in a weekend.</p>
         <p>When selecting our nonprofit partners, we evaluate the projects based on certain criteria:</p>
         <ul>
             <li>Can we complete the project over the course of the weekend?</li>
@@ -41,7 +44,7 @@
         <ul>
             <li>The main emphasis on projects is technology.</li>
             <li>For organizations needing written content, we suggest they have a majority of it ready and planned before coming to GiveCamp. We do have copy writers available to help, but we suggest utilizing these volunteers to tighten up copy or fill in the gaps.</li>
-            <li>For organizations needing graphic design… GiveCamp volunteers are focused on the technology aspects of your project. We do have graphic designers assigned to teams creating websites, but their role is to infuse your brand into the site. They will not be able to create a branding campaign or logo for your organization. Those items must be developed ahead of time.&nbsp;</li>
+            <li>For organizations needing graphic design, GiveCamp volunteers are focused on the technology aspects of your project. We do have graphic designers assigned to teams creating websites, but their role is to infuse your brand into the site. They will not be able to create a branding campaign or logo for your organization. Those items must be developed ahead of time.&nbsp;</li>
             <li>We suggest you take time to plan your project ahead of time. If you want a website, look at other sites and plan a site “map.” This document will make it easier for our volunteers to set up your site. If you are planning an app or database, think about those who will use them, the fields or sections you want to include, and plan accordingly. &nbsp;</li>
         </ul>
         <h3>My charity did not get selected. What now?</h3>

@@ -16,47 +16,52 @@
     <div class="lcol">
 <!--iframe id='iframe' src='//flickrit.com/slideshowholder.php?height=450&width=696&size=big&speed=2&count=100&group=2707854@N22&credit=2&trans=1&thumbnails=0&transition=0&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='696' height='450'></iframe-->
         <div id="slider" style="height:500px;"  >
-			<ul>				
-				<li><img src="images/Rotator/Packed.JPG" /></li>
-				<li ><img src="images/Rotator/2014/Group1.JPG" /></li>
-                <li>
-                    <img src="images/Rotator/IMG_0188.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/IMG_0189.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/IMG_0192.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/IMG_0204.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/IMG_0206.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/IMG_1757.JPG" /></li>
-				<li>
-                    <img src="images/Rotator/nametags.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA110010.JPG" /></li>
-                <li>
-                    <img src="images/Rotator/PA120020.JPG" /></li>
-                <li>
-                    <img src="images/Rotator/PA130027.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA130037.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA130038.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA130039.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA130073.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/PA130189.jpg" /></li>
-                <li>
-                    <img src="images/Rotator/SWYFS2.JPG" /></li>
-                <li>
-                    <img src="images/Rotator/vitalsource.jpg" /></li>
-				</ul>
-		
-        
-        
+			<ul>	
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-101.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-109.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-113.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-124.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-133.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-140.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-146.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-152.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-157.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-174.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-182.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-187.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-190.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-2.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-200.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-202.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-212.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-214.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-216.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-222.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-226.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-228.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-237.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-239.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-24.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-241.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-245.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-251.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-257.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-261.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-271.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-274.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-277.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-28.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-291.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-311.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-313.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-335.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-36.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-58.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-63.jpg"/></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-65.jpg" /></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-85.jpg" /></li>
+                <li><img alt="Photo from Seattle GiveCamp 2015" src="images/Rotator/2015/Seattle%20Give%20Camp%202015-97.jpg" /></li>
+            </ul>			
         </div>
 
         <h1>Sit down, Plug in, Change the World!</h1>

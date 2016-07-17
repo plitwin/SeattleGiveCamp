@@ -21,7 +21,8 @@
             <h3>What We Do</h3>
             <p>
             Seattle GiveCamp hosts weekend-long "hackathons" for good. During a Seattle GiveCamp hackathon, programmers, designers and other software professionals 
-            donate their time to create web, desktop and mobile software for worthy non-profit organizations. 
+            donate their time to create web, desktop and mobile software for worthy non-profit organizations. You can read about the over one hundred non-profit
+            organizations we have helped on our <a href="history.aspx">history page</a>.
             </p>
             <p><strong>Some of our past projects have included:</strong></p>
             <ul>
@@ -31,9 +32,9 @@
                 <li>Online volunteer rosters</li>
                 <li>Mobile games</li>
             </ul>
-            <p>
+            
             <h3>Planning the Next Seattle GiveCamp</h3>
-            While the magic of a Seattle GiveCamp hackathon occurs over a weekend, before the magic can unfold, GiveCamp's officers and other volunteers spend many months 
+            <p>While the magic of a Seattle GiveCamp hackathon occurs over a weekend, before the magic can unfold, GiveCamp's officers and other volunteers spend many months 
             in preperation for that special weekend. Our planning committee plans all facets of the event and represents companies throughout Seattle area. 
             Many of these individuals have been involved with the event since its inception and continue to dedicate hundreds of hours each year to make it possible.</p>
 
