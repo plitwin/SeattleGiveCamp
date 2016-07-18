@@ -10,30 +10,33 @@
 
      
 	<h1>Code of Conduct</h1>
-<p>
-	The Seattle GiveCamp organizing committee expects that the community of volunteers and non-profits will adhere to the following code of conduct:
-</p>
-<p>
-	Come to this weekend with the intent to do what is right for the non-profit organizations we serve
-</p>
-<p>
-	Participate in providing a safe and respectful environment for all participants
-</p>
-<p>
-	Value the contributions of others
-</p>
-<p>
-	Find a way for people to be productive with their skills and energy
-</p>
-<p>
-	Encourage members and participants to listen as much as they speak
-</p>
-<p>
-	We will not tolerate discrimination or harassment
-</p>
-<p>
-	Seattle GiveCamp reserves the right to ask anyone in violation of these policies not to participate in Seattle GiveCamp activities or events
-</p>
+	    The Seattle GiveCamp organizing committee expects that the community of volunteers and 
+            non-profits will adhere to the following code of conduct:
+    <ul>
+        <li>
+	        Come to this weekend with the intent to do what is right for the non-profit organizations we serve
+        </li>
+        <li>
+	        Participate in providing a safe and respectful environment for all participants.
+        </li>
+        <li>
+	        Value the contributions of others.
+        </li>
+        <li>
+	        Find a way for people to be productive with their skills and energy.
+        </li>
+        <li>
+	        Encourage members and participants to listen as much as they speak.
+        </li>
+        <li>
+	        We will not tolerate discrimination or harassment.
+        </li>
+        <li>
+	        Seattle GiveCamp reserves the right to ask anyone in violation of these policies 
+            to immediately leave the Seattle GiveCamp facilities and may elect to ban such individuals
+            from participation in all Seattle GiveCamp activities and events.
+        </li>
+    </ul>
 
 	<h2>Seattle GiveCamp's Anti-Harassment Policy</h2>
 
