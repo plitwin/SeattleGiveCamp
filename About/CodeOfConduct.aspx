@@ -8,7 +8,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" Runat="Server">
 
-
+     
 	<h1>Code of Conduct</h1>
 <p>
 	The Seattle GiveCamp organizing committee expects that the community of volunteers and non-profits will adhere to the following code of conduct:
