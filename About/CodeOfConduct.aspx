@@ -57,7 +57,7 @@
         </p>
         <p>
 	        If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
-	        You can contact them at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a> . Event staff will be happy to help participants contact
+	        You can contact them at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a>. Event staff will be happy to help participants contact
 	        venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
         </p>
         <p>
