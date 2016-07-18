@@ -66,7 +66,7 @@
 
         <h1>Sit down, Plug in, Change the World!</h1>
       
-    <b style="font-size:20px;">Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons</a></b>
+    <b style="font-size:20px;">Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons,</a> Redmond, Washington</b>
     <br />
         <b  style="font-size:20px;">When: 14th October at 6pm  until 16th October 4pm 2016 </b>
  
