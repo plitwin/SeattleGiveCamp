@@ -5,7 +5,7 @@ Seattle GiveCamp Website
 + Should work with VS 2013 or VS 2015. Tested with VS 2015. Community Edition is OK!
 + This is a Visual Studio WEB SITE, not a VS web project, and thus must be opened as a website.
 
-<h3>How to setup publicatio profile to discountasp.net</h3>
+<h3>How to setup publication profile to web publish to discountasp.net</h3>
 + Log in.
 + Goto https://my.discountasp.net/account-info.aspx 
 + At bottom of screen, click <b>Download Web Deploy Publish Settings</b>
