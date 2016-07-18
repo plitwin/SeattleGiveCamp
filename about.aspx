@@ -59,14 +59,14 @@
     <div class="ql">
         
         <div>
-        <div class="widget widget_text" id="widget_text">
+        <div style="margin-bottom:40px;" class="widget widget_text" id="widget_text">
     <h3 class="widget-title">Event Resources</h3>
 	<!--<a href="http://seattlegivecamp.wikispaces.com/">Wiki</a>-->
 	<a href="/History.aspx">History</a>
 	<a href="/FAQ/Agenda.aspx">Agenda</a>
 	<a href="/FAQ/SpreadTheWord.aspx">Spread The Word</a>
 	<a href="/FAQ/Location.aspx">Location</a>    
-
+            <a href="/About/CodeOfConduct.aspx">Code Of Conduct</a>
             
             </div>
             </div>
