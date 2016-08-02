@@ -21,7 +21,7 @@
     Absolutely. You can eat with the volunteers when you are there. See <a href="http://seattlegivecamp.org/FAQ/Agenda.aspx">agenda page</a> for info on meals.
 </p>
 <h2>
-    What is a Give Camp?
+    What is a Seattle Give Camp?
 </h2>
 <p>
     A GiveCamp is a weekend-long event where software developers, designers, and database administrators donate their time to create custom software for
@@ -75,14 +75,14 @@
     if you can't be availabe on site during the required times, your application will be disqualified.</b>
 </p>
 <h2>
-    How will the charities be selected?
+    How will the Noprofits be selected?
 </h2>
 <p>
-    We will select the number of charities to be helped based on the number of developer volunteers we receive. Our goal is to provide support to 20+ charities
+    We will select the number of nonprofits to be helped based on the number of developer volunteers we receive. Our goal is to provide support to 20+ nonprofits
     in the Seattle area.
 </p>
 <h2>
-    What should my Charity Proposal include?
+    What should my Nonprofit Proposal include?
 </h2>
 <p>
     Your proposal will be used as the blueprint for your application. The more specific your proposal the happier you will be with your application. This is
@@ -127,7 +127,23 @@
     What if I am not sure what to propose?
 </h2>
 <p>
-    See <a href="http://seattlegivecamp.org/NonProfit.aspx">proposal suggestions</a> on our charity information page.
+    See <a href="http://seattlegivecamp.org/NonProfit.aspx">proposal suggestions</a> on our nonprofit information page.
+</p>
+<h2>
+    What if I need to modify my proposal after I have submitted it?
+</h2>
+<p>
+    Before the submission deadline, submit a new proposal and mention in the notes that this proposal replaces
+    the original proposal from your organization.
+    After the submission deadline, you ask you not to alter your proposal unless you learn new information that
+    affects the proposal (e.g., we wish to withdraw our proposal or our web hosting company or software has 
+    changed since our submission). You can email us at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a>.
+</p>
+<h2>
+    When will I know if my proposal has been selected?
+</h2>
+<p>
+    All non-profits submitting proposals for Seattle GiveCamp will be contacted by mid-September.
 </p>
 <h2>
     What happens after I am selected?
@@ -136,26 +152,19 @@
     If you are one of the charities that are selected, we will contact you to finalize your design requirements.
 </p>
 <p>
+    When do we have to be at Seattle GiveCamp? See above under <strong>What do you need from me?</strong> for&nbsp; details.</p>
+        <p>
     What if no one from my organization can make it to the event?
-</p>
-<p>
-    At least one member of the organization needs to be at the opening ceremony, the closing ceremony and available by phone over the weekend. If no one from
-    your organization can make it to the event, perhaps you can work with a surrogate. You will need someone to be onsite at a minimum Friday and Sunday.
-</p>
+<strong>Your application will be disqualified.</strong></p>
 <h2>
-    Will I be able to modify my application?
+    Will I be able to modify the solution?
 </h2>
 <p>
-    Yes! Each charity will be provided transition training in how to manage their application once the weekend is over. It is critical that someone from the
-    organization attend the training so they can share that information with others from your organization. And depending on the technology used, this person
+    Yes! Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that someone from the
+    organization be on site Sunday afternoon so we can share that information with your organization. And depending on the technology used, this person
     may need to be technical.
 </p>
-<p>
-    When will I know if my proposal has been selected?
-</p>
-<p>
-    All non-profits submitting proposals for the 2015 event will be contacted the month before GiveCamp.
-</p>
+
         </div>
 </asp:Content>
 
