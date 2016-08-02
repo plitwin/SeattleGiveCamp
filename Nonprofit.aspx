@@ -20,6 +20,13 @@
         between now and the early September to request further information and/or
         inform you of the status of your proposal. Thank you.</b>
 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
 <%--        <p>Please access our <b><a href="https://docs.google.com/forms/d/167jmqfl-KAjHqPhMijV9PGnQ4MSsIYb5ikhQnESHePE/viewform">online application</a></b> &nbsp;to submit your organization as a 
             candidate for participation in GiveCamp. The 2016 nonprofit application process is now open and will 
             close on August 1st. If you are interested in receiving more information on Seattle GiveCamp, send 
