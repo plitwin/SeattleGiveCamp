@@ -47,25 +47,32 @@
 </p>
 <ul type="disc">
     <li>
-        a representative from your charity must attend the kick-off meeting on Friday. This person should be knowledgeable about the proposal document
-        and the work that our developers are being asked to do
+        A representative from your charity <b>must attend the kick-off meeting on Friday from <u>6pm to 9pm (possibly a little later)</u></b>. 
+        This person should be knowledgeable about the proposal document
+        and the work that our developers are being asked to do.
     </li>
     <li>
-        at least one representative from your charity must be available either in person or by phone during the weekend so that any questions about the
-        application can be answered and the team has the information they need to complete their assigned tasks
+        At least one representative from your organization <b>must be available <u>on site</u> for 
+            <u>at least two hours</u> on Saturday</b> and be available by phone at other times (9am to 6pm) 
+            so that any questions about the
+        application can be answered and the team has the information they need to complete their 
+            assigned tasks.
     </li>
     <li>
-        Members of your organization that will be maintaining the application after the event is over are encouraged to attend one of the various training
+        Members of your organization that will be maintaining the application after the event is over 
+        are encouraged to attend one of the various training
         sessions that will be conducted during the weekend.
     </li>
     <li>
-        lastly, at least one member of the Charity must attend the demo on Sunday afternoon to see the results and take possession of the application. The
+        Lastly, at least one member of your organization <b>must be <u>on site</u> for the handoff and final presentation
+        on Sunday during the hours of <u>1pm to 6pm</u></b> to see the results and take possession of the application. The
         people you send should include the organization’s technical expert, if possible.
     </li>
 </ul>
 <p>
-    It goes without saying that the most successful charity projects result from a strong commitment to participate my members of the charity, so you’re
-    strongly encouraged to be on site each day.
+    It goes without saying that the most successful nonprofit projects result from a strong commitment to participate my members of the nonprofit, so you’re
+    strongly encouraged to exceed the above minimums. <b>Please realize that being available by phone or online is NOT an acceptable substitute for the on site requirements; 
+    if you can't be availabe on site during the required times, your application will be disqualified.</b>
 </p>
 <h2>
     How will the charities be selected?
