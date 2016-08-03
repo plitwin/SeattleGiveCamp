@@ -20,6 +20,10 @@
         between now and the early September to request further information and/or
         inform you of the status of your proposal. Thank you.</b>
 
+        <br /><br />
+        If you already submitted a proposal, see the <a href="FAQ/NonProfitFAQ.aspx">Nonprofit FAQ</a> for
+        details on the selection process.
+
         <br />
         <br />
         <br />

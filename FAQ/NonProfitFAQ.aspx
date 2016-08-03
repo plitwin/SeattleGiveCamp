@@ -117,8 +117,11 @@
     Before the submission deadline, submit a new proposal and mention in the notes that this proposal replaces
     the original proposal from your organization.
     After the submission deadline, you ask you not to alter your proposal unless you learn new information that
-    affects the proposal (e.g., we wish to withdraw our proposal or our web hosting company or software has 
-    changed since our submission). You can email us at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a>.
+    affects the proposal (e.g., my contact info has changed, I am leaving the organization and wish to hand off to another individual at
+    my organization, our web hosting company or software has 
+    changed since the submission, or we wish to withdraw our proposal). 
+    You can email us at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a>. Make sure
+    you mention the organization name and the name of the person who originally submitted the proposal.
 </p>
 <h2>
     When will I know if my proposal has been selected?
@@ -132,16 +135,16 @@
 <p>
     If you are one of the charities that are selected, we will contact you to finalize your design requirements and what we will expect of you.
 </p>
-<p>
-    When do we have to be at Seattle GiveCamp? See above under <strong>What do you need from me?</strong> for details.</p>
-        <p>
-    What if no one from my organization can make it to the event?
-<strong>Your application will be disqualified.</strong></p>
+<h2>When do we have to be at Seattle GiveCamp?</h2> 
+<p>See above under <strong>What do you need from me?</strong> for details.</p>
+        <h2>
+    What if no one from my organization can make it to the event?</h2>
+<p>Someone from oganization must be there at GiveCamp. This is not negotiable. See above under <strong>What do you need from me?</strong> for details.</p>
 <h2>
-    Will I be able to modify the solution after Seattle GiveCamp?
+    Will I be able to update the application or solution that the Seattle GiveCamp vounteers worked on?
 </h2>
 <p>
-    Yes! Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that someone from the
+    Yes. Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that someone from the
     organization be on site Sunday afternoon so we can share that information with your organization. And depending on the technology used, this person
     may need to be technical.
 </p>
