@@ -33,13 +33,13 @@
     When is the deadline for submitting proposals?
 </h2>
 <p>
-    That information can be found on the <a href="../Nonprofit.aspx"> page</a>
+    That information can be found on this <a href="../Nonprofit.aspx"> page</a>.
 </p>
 <h2>
     What do you need from me?
 </h2>
 <p>
-    Start off with completing the Charity Proposal form on this site <a href="https://docs.google.com/forms/d/1RKi0Z6rtgyaTXokeb6OQ0x64TV4xFo9wWfa2KK3l-Ng/viewform?usp=send_form">located here</a>.
+    Start off with completing the Proposal Form on <a href="../Nonprofit.aspx">located here</a>.
 </p>
 <p>
     Success for each charity depends on a couple of things, but all starts with involvement. It’s critical that members of the charity be available before,
@@ -78,50 +78,31 @@
     How will the Noprofits be selected?
 </h2>
 <p>
-    We will select the number of nonprofits to be helped based on the number of developer volunteers we receive. Our goal is to provide support to 20+ nonprofits
-    in the Seattle area.
+    We will review all proposals and score them. We will arrange a time to interview most applicants to discuss their application. 
+    Our goal is to accept around 20-25 proposals.
 </p>
 <h2>
     What should my Nonprofit Proposal include?
 </h2>
 <p>
-    Your proposal will be used as the blueprint for your application. The more specific your proposal the happier you will be with your application. This is
-    just some of the information that you might wish to include:
+    Your proposal will be used to help us decide if your proposal will be accepted. Read each question carefully and answer it honestly. Tips:
 </p>
 <ul type="disc">
     <li>
-        What is the objective of the system? Describe the problem this system will solve.
-    </li>
+        Answer each question succinctly but with adequate information.</li>
     <li>
-        Are you requesting a new application or an update to an existing application?
-    </li>
+        Don&#39;t be ambiguous.</li>
     <li>
-        If it is not a new application what software was used to create your existing solution?
-    </li>
+        Focus on one or a few related items for your proposal. Do not give us a laundry list of what you would like.</li>
     <li>
-        Will you be hosting your application?
-    </li>
+        Realize that in most cases, you will have to pay any licensing fees for software or web hosting and make sure your organization can afford the cost.</li>
     <li>
-        What information will you need to track?
-    </li>
+        Magic can happen during the GiveCamp weekend but we can&#39;t do the impossible. Be realistic in your expectations.</li>
     <li>
-        Do any users have special needs?
-    </li>
-    <li>
-        Describe the ongoing needs for importing data into the system, and exporting it from the system.
-    </li>
-    <li>
-        List any reports.
-    </li>
-    <li>
-        Describe performance requirements, issues, and concerns.
-    </li>
-    <li>
-        Describe security requirements.
-    </li>
+        If you expect to be on vacation or on a trip during the review period (between July and September), make sure to include an alternate contact person at your organization who can answer any questions about your proposal.</li>
 </ul>
 <p>
-    See the <a href="http://seattlegivecamp.org/NonProfit.aspx">charity proposal form</a> for more details.
+    See the <a href="http://seattlegivecamp.org/NonProfit.aspx">nonprofit proposal form</a> for more details.
 </p>
 <h2>
     What if I am not sure what to propose?
@@ -149,15 +130,15 @@
     What happens after I am selected?
 </h2>
 <p>
-    If you are one of the charities that are selected, we will contact you to finalize your design requirements.
+    If you are one of the charities that are selected, we will contact you to finalize your design requirements and what we will expect of you.
 </p>
 <p>
-    When do we have to be at Seattle GiveCamp? See above under <strong>What do you need from me?</strong> for&nbsp; details.</p>
+    When do we have to be at Seattle GiveCamp? See above under <strong>What do you need from me?</strong> for details.</p>
         <p>
     What if no one from my organization can make it to the event?
 <strong>Your application will be disqualified.</strong></p>
 <h2>
-    Will I be able to modify the solution?
+    Will I be able to modify the solution after Seattle GiveCamp?
 </h2>
 <p>
     Yes! Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that someone from the
@@ -165,6 +146,14 @@
     may need to be technical.
 </p>
 
-        </div>
+<h2>
+    Will Seattle GiveCamp volunteers support my solution after Seattle GiveCamp?
+</h2>
+<p>
+    No. The idea of GiveCamp is to tackle a project that can be completed in a weekend. On Sunday, you need to take over ownership 
+    of the solution that Seattle GiveCamp provides.
+</p>
+
+</div>
 </asp:Content>
 
