@@ -15,14 +15,24 @@
 
         <h1>Nonprofits</h1>
  
-        <!--p>The application proposal period has ended.  Someone will be contacting the nonprofits in the next month or so to let them know if they have been selected to participate in this years GiveCamp.</!--p>
-        <!--p>You can view the nonprofits on our wiki.</!--p>
-        <a href="http://seattlegivecamp.wikispaces.com/2014+Projects">All project</a><br />
-         <a href="http://seattlegivecamp.wikispaces.com/Projects+by+Technology">By Technology</a-->
-       
         <h3>How do I apply for Seattle GiveCamp?</h3>
-        <p>Please access our <b><a href="https://docs.google.com/forms/d/167jmqfl-KAjHqPhMijV9PGnQ4MSsIYb5ikhQnESHePE/viewform">online application</a></b> &nbsp;to submit your organization as a candidate for participation in GiveCamp. The 2016 nonprofit application process is now open and will close on August 1st. If you are interested in receiving more information on Seattle GiveCamp, send us an email at <a href="mailto:info@Seattlegivecamp.org">info@Seattlegivecamp.org</a> to join our mailing list.</p>
-        <blockquote>
+        <b>The application period has ended. Someone will be contacting each applicant 
+        between now and the early September to request further information and/or
+        inform you of the status of your proposal. Thank you.</b>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+<%--        <p>Please access our <b><a href="https://docs.google.com/forms/d/167jmqfl-KAjHqPhMijV9PGnQ4MSsIYb5ikhQnESHePE/viewform">online application</a></b> &nbsp;to submit your organization as a 
+            candidate for participation in GiveCamp. The 2016 nonprofit application process is now open and will 
+            close on August 1st. If you are interested in receiving more information on Seattle GiveCamp, send 
+            us an email at <a href="mailto:info@Seattlegivecamp.org">info@Seattlegivecamp.org</a> to join our mailing list.</p>--%>
+
+ <%--       <blockquote>
             <p>2016 application deadlines: Early-bird: July 20. Last chance: August 1.</p>
         </blockquote>
         <br />
@@ -50,28 +60,19 @@
         <h3>My charity did not get selected. What now?</h3>
         <p><strong></strong>More than 75 nonprofits apply each year for assistance and unfortunately we cannot accept every project. If you have applied and were not accepted, we encourage you to consider applying again the next year. There are also other GiveCamp events planned <a target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://givecamp.org']);" href="http://givecamp.org/">throughout the region</a> that may be able to help your organization.</p>
         <p>&nbsp;</p>
-       
-
+--%>       
 
     </div>
-
-
     
-    
-    
-       <div class="ql">
+<%--       <div class="ql">
         
-               <h3 class="widget-title">Projects</h3>
+               <h3 class="widget-title">2015 Projects</h3>
 	<a href="http://www.seattlegivecamp.org/projects/2015">2015</a>
 	
-
-
-
-
            <div style="margin-top:20px;">
            <iframe width="250" height="141" src="//www.youtube.com/embed/ujtKVv0wWH4" frameborder="0" allowfullscreen></iframe>
                </div>
-       </div>
+       </div>--%>
 
     <style>
     
