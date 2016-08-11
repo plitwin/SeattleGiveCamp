@@ -4,7 +4,7 @@
     <script>
         activeMenu = '#MenuSponsors'
     </script>
-
+    <style>h2{margin-top:20px !important;}</style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" runat="Server">
     <div class="lcol">
@@ -15,7 +15,7 @@
             <p>Seattle GiveCamp could not happen without the generosity of our sponsors. Their financial and in-kind support helps us continue the important work we do each year. A typical project created during GiveCamp weekend would cost a nonprofit $5,000-$10,000. By doing them for free, we allow them to allocate their financial resources to directly fulfill their mission.</p>
             <p>Sponsors help ensure that nonprofits continue to benefit from this valuable work, with no cost to participate. With your support, we also give volunteers tools to do the work (everything from printing supplies to hosting) and fuel them with food and caffeine throughout the weekend.</p>
             <p>Thank you to our Seattle GiveCamp Sponsors.</p>
-            <h2>2016 Gold Sponsors</h2>
+            <h2>Gold Sponsors</h2>
 			<h2>
 				<a href="http://www.microsoft.com/"> 
 					<img src="../images/Sponsor/Microsoft-630x102.jpg" width="500" alt="Microsoft Logo"/>
@@ -54,7 +54,7 @@
             	<!--woocommerce-->
 						<h2>
 				<a href="http://www.woocommerce.com/"> 
-					<img src="https://woocommerce.com/wp-content/themes/woomattic/images/logo-woocommerce@2x.png" width="400" alt="Woocommerce" style="margin-top:20px;"/>
+					<img src="https://woocommerce.com/wp-content/themes/woomattic/images/logo-woocommerce@2x.png" width="500" alt="Woocommerce" style="margin-top:20px;"/>
 				</a>
 			</h2>
 
@@ -92,7 +92,7 @@
             		<!--SPLUNK-->
 			<h2>
 				<a href="http://www.splunk.com/"> 
-					<img src="../images/Sponsor/logo_splunk_1color_K.png" width="236" alt="Splunk"/>
+					<img src="../images/Sponsor/logo_splunk_1color_K.png" width="500" alt="Splunk"/>
 				</a>
 			</h2>
 
@@ -122,43 +122,63 @@
                     </span>
                 </a>
             </p>
+            		<!--SPLUNK Ends here-->
+	
+            
+            	<!--AMAZON-->
+			<h2>
+				<a href="http://www.amazon.com/"> 
+					<img src="2016/amazon_logo_RGB.jpg" width="500" alt="AMAZON"/>
+				</a>
+			</h2>
+
+
+            <p>
+                <a href="http://www.amazon.com/">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/amazon"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://www.linkedin.com/company/1586"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://plus.google.com/+amazon">
+
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </p>
+			<!--AMAZON Ends here-->
+	
+
 
             <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
 			<p>
             </p>
-			<!--SPLUNK Ends here-->
 	
-
-
-
-
 			
          
-            <!-- 
+             
             <h2>Silver Sponsors</h2>
 			
             <div>
 
 
 
-
-
-            </div>
-                -->
-
-                   
-
-
-               
-            <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
-		
-            <h2>Bronze Sponsors</h2>
-			
-
-                         <!--Concentric-->
+                             <!--Concentric-->
 			            <h2>
              <a href="http://centricconsulting.com/">   
-                 <img src="http://8673-presscdn-0-49.pagely.netdna-cdn.com/wp-content/themes/centric/assets/images/logo.jpg" width="200" alt="Concentric Consulting"/>
+                 <img src="http://8673-presscdn-0-49.pagely.netdna-cdn.com/wp-content/themes/centric/assets/images/logo.jpg" width="400" alt="Concentric Consulting"/>
              </a>
             </h2>
             <p>
@@ -192,11 +212,25 @@
 			<!--concentric ends here-->
 
 
+            </div>
+                
+
+                   
+
+
+               
+            <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
+		
+            <h2>Bronze Sponsors</h2>
+			
+
+            
+
             
                 <!--Apex-->
 			            <h2>
              <a href="https://www.apexsystems.com/">   
-                 <img src="2016/apex.jpg" width="200" alt="Apex"/>
+                 <img src="2016/apex.jpg" width="300" alt="Apex"/>
              </a>
             </h2>
             <p>
@@ -265,7 +299,7 @@
             	<!--Moz-->
 			            <h2>
              <a href="https://moz.com/">   
-                 <img src="../images/Sponsor/moz_blue.png" width="117" alt="Moz Logo"/>
+                 <img src="../images/Sponsor/moz_blue.png" width="300" alt="Moz Logo"/>
              </a>
             </h2>
             <p>
@@ -299,6 +333,48 @@
 			<!--moz ends here-->
 
             
+            
+                <!--Redfin-->
+			            <h2>
+             <a href="https://www.redfin.com/city/16163/WA/Seattle/">   
+                 <img src="2016/Redfin-Logo.png" width="300" alt="Apex"/>
+             </a>
+            </h2>
+            <p>
+                <a href="https://www.redfin.com/city/16163/WA/Seattle">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/Redfin"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://www.linkedin.com/company/21269"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://plus.google.com/+redfin">
+
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+
+              
+            </p>
+
+			<p>
+            </p>
+			<!--Redfin ends here-->
+
+
+
+
             <p>
             </p>
 
