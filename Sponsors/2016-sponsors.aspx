@@ -162,6 +162,44 @@
 	
 
 
+            	<!--PARIVEDA-->
+			<h2>
+				<a href="http://www.parivedasolutions.com/Pages/default.aspx"> 
+					<img src="2016/parivedalogo.png" width="500" alt="Pariveda"/>
+				</a>
+			</h2>
+
+            <p>
+                <a href="http://www.parivedasolutions.com/Pages/default.aspx">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/Pariveda_Inc"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://www.linkedin.com/company/pariveda-solutions"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://plus.google.com/u/0/110336508021638325976/videos">
+
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </p>
+			<!--PARIVEDA Ends here-->
+	
+
+
+
+
             <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
 			<p>
             </p>
