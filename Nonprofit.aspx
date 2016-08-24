@@ -16,9 +16,13 @@
         <h1>Nonprofits</h1>
  
         <h3>How do I apply for Seattle GiveCamp?</h3>
-        <b>The application period has ended. Someone will be contacting each applicant 
+        <b>The application period was ended early because so many proposals were received during the month of July. Someone will be contacting each applicant 
         between now and the early September to request further information and/or
         inform you of the status of your proposal. Thank you.</b>
+
+        <br /><br />
+        If you already submitted a proposal, see the <a href="FAQ/NonProfitFAQ.aspx">Nonprofit FAQ</a> for
+        details on the selection process.
 
         <br />
         <br />
