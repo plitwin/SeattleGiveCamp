@@ -15,15 +15,12 @@
 
         <h1>Nonprofits</h1>
  
-        <h3>How do I apply for Seattle GiveCamp?</h3>
-        <b>The application period was ended early because so many proposals were received during the month of July. Someone will be contacting each applicant 
-        between now and the early September to request further information and/or
-        inform you of the status of your proposal. Thank you.</b>
-
-        <br /><br />
-        If you already submitted a proposal, see the <a href="FAQ/NonProfitFAQ.aspx">Nonprofit FAQ</a> for
-        details on the selection process.
-
+        <h3>How do I apply for Seattle GiveCamp 2016?</h3>
+        <b>The application period is now closed. </b>See our <a href="default.aspx">home page</a> for a list of finalists.<br /><br />
+        
+        <h3>How do I get notified of the next "Call for Proposals"?</h3>
+        Add your email address to our list below.
+        <iframe src="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform?embedded=true" width="680" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         <br />
         <br />
         <br />
