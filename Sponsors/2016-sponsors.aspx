@@ -122,11 +122,8 @@
                 </a>
             </p>
 
-            
 
-
-
-            		<!--SPLUNK-->
+                <!--SPLUNK-->
 			<h2>
 				<a href="http://www.splunk.com/"> 
 					<img src="../images/Sponsor/logo_splunk_1color_K.png" width="500" alt="Splunk"/>
@@ -159,10 +156,10 @@
                     </span>
                 </a>
             </p>
-            		<!--SPLUNK Ends here-->
+            <!--SPLUNK Ends here-->
 	
             
-            	<!--AMAZON-->
+            <!--AMAZON-->
 			<h2>
 				<a href="http://www.amazon.com/"> 
 					<img src="2016/amazon_logo_RGB.jpg" width="500" alt="AMAZON"/>
@@ -297,12 +294,7 @@
             <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
 		
             <h2>Bronze Sponsors</h2>
-			
-
-            
-
-            
-                <!--Apex-->
+             <!--Apex-->
 			            <h2>
              <a href="https://www.apexsystems.com/">   
                  <img src="2016/apex.jpg" width="300" alt="Apex"/>
@@ -332,15 +324,12 @@
             </p>
 			<!--Apex ends here-->
 
-
-
-                            <h2>
+            <!--AirBnB-->
+            <h2>
 				<a href="https://www.airbnb.com/"> 
 					<img src="2016/airbnb_horizontal_lockup_web.png" width="300" alt="airbnb"/>
 				</a>
 			</h2>
-
-
             <p>
                 <a href="https://www.facebook.com/airbnb">
                     <span class="fa-stack fa-lg">
@@ -366,13 +355,43 @@
                     </span>
                 </a>
             </p>
+           <!--AirBnB ends here-->
 
+            <!--Ionic-->
+            <h2>
+				<a href="http://ionicframework.com"> 
+					<img src="2016/ionic-logo-landscape.png" width="300" alt="ionic"/>
+				</a>
+			</h2>
+            <p>
+                <a href="https://www.facebook.com/ionicframework">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/Ionicframework"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
 
+                <a href="https://www.linkedin.com/company/ionic"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
 
+                <a href="https://plus.google.com/communities/101125616123156103645">
 
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </p>
+           <!--Ionic ends here-->
 
-            	<!--Moz-->
-			            <h2>
+            <!--Moz-->
+			 <h2>
              <a href="https://moz.com/">   
                  <img src="../images/Sponsor/moz_blue.png" width="300" alt="Moz Logo"/>
              </a>
