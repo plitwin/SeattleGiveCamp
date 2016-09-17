@@ -98,31 +98,31 @@
 }
 </style><table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>Organization</th><th>Brief Project Description</th></tr>
-<tr><td><a href='http://www.oneequalheart.org/'>One Equal Heart Foundation</a></td><td>A new website that better explains our mission and programs.</td></tr>
-<tr><td><a href='http://firesteelwa.org'>YWCA Seattle, King, and Snohomish</a></td><td>We hope a volunteer team will help build an embeddable map of Washington featuring housing projects that were supported by the state's Housing Trust Fund (HTF).</td></tr>
-<tr><td><a href='http://housingconsortium.org'>Housing Development Consortium</a></td><td>Build a CRM to better access and catalog our diverse member base. </td></tr>
-<tr><td><a href='https://www.syouthclub.org'>Somali Youth and Family Club</a></td><td>Build a website.</td></tr>
-<tr><td><a href='http://help4women.org/'>Transitions</a></td><td>Case Management System and a Service Delivery System.</td></tr>
-<tr><td><a href='http://copcwa.org/'>Seattle Healthy Kids Coalition</a></td><td>Need to jump start a social media presence (web site, FB, Twitter) for an emergent Seattle-based coalition.</td></tr>
-<tr><td><a href='http://www.wahealthcareaccessalliance.org'>Washington Healthcare Access Alliance</a></td><td>Web and mobile-accessible health care resource page that can easily be updated by staff.</td></tr>
-<tr><td><a href='http://www.healthyfoodamerica.org/'>Healthy Food America</a></td><td>We would like to have an educational game built that we can use to both recruit supporters and help people learn about the actions they can take to knock sugar back to healthy levels.  </td></tr>
-<tr><td><a href='http://www.siblinghouse.org'>Sibling House</a></td><td>Build a new website.</td></tr>
-<tr><td><a href='http://www.soccer2unite.org'>Soccer2Unite</a></td><td>Build a new WordPress website.</td></tr>
-<tr><td><a href='http://bikeworks.org'>Bike Works</a></td><td>Website refresh and update.</td></tr>
-<tr><td><a href='http://www.wspf.org'>Washington State Parks Foundation</a></td><td>Add a trip report system to existing SGC-built website.</td></tr>
-<tr><td><a href='http://www.circleofchildren.org'>Circle of Children</a></td><td>New WordPress website.</td></tr>
-<tr><td><a href='http://www.tgcorps.org'>True Grace Covenant Organizations Reaching People Services</a></td><td>Migrate website to WordPress and fine tune.</td></tr>
-<tr><td><a href='https://recoverycafe.org/'>Recovery Cafe</a></td><td>Create a web-based time-tracking system.</td></tr>
-<tr><td><a href='http://nvsrehab.org/'>Neurology Vocational Services Unit</a></td><td>Refactor and improve efficiency of existing Access database.</td></tr>
-<tr><td><a href='http://www.housingconsortium.org'>Housing Development Consortium</a></td><td>Need help overhaul of existing Tableau database.</td></tr>
-<tr><td><a href='http://www.global-visionaries.org/'>Global Visionaries</a></td><td>Build WordPress website.</td></tr>
-<tr><td><a href='http://www.outinfrontseattle.org'>Out In Front Seattle</a></td><td>Website redesign.</td></tr>
-<tr><td><a href='http://scidpda.org'>SCIDpda  Seattle Chinatown International District Preservation & Development Authority</a></td><td>Refactor and improve efficiency of existing Access database for Congregate Meal Program.</td></tr>
-<tr><td><a href='https://www.amaraparenting.org/'>Amara</a></td><td>Create a "match.com"-like website for matching families to each other.</td></tr>
-<tr><td><a href='http://www.venturesnonprofit.org'>Ventures</a></td><td>Build an online directory of our client-businesses that is fully navigable by the public, searchable, and filterable. </td></tr>
-<tr><td><a href='https://tinytrees.org/'>Tiny Trees Preschool</a></td><td>We would like to install and customize an online database (Salesforce or equivalent wordpress plugin) to manage our online registration system.</td></tr>
-<tr><td><a href='http://www.athletesforkids.org'>Athletes for Kids</a></td><td>Detect security vulnerabilities in our web site and apps.</td></tr>
-<tr><td><a href='http://www.northwestharvest.org/'>Northwest Harvest</a></td><td>Create a website to match growers to food banks and allow them to communicate.</td></tr>
+<tr><td><a href='http://www.oneequalheart.org/' target='_blank'>One Equal Heart Foundation</a></td><td>A new website that better explains our mission and programs.</td></tr>
+<tr><td><a href='http://firesteelwa.org' target='_blank'>YWCA Seattle, King, and Snohomish</a></td><td>We hope a volunteer team will help build an embeddable map of Washington featuring housing projects that were supported by the state's Housing Trust Fund (HTF).</td></tr>
+<tr><td><a href='http://housingconsortium.org' target='_blank'>Housing Development Consortium</a></td><td>Build a CRM to better access and catalog our diverse member base. </td></tr>
+<tr><td><a href='https://www.syouthclub.org' target='_blank'>Somali Youth and Family Club</a></td><td>Build a website.</td></tr>
+<tr><td><a href='http://help4women.org/' target='_blank'>Transitions</a></td><td>Case Management System and a Service Delivery System.</td></tr>
+<tr><td><a href='http://copcwa.org/' target='_blank'>Seattle Healthy Kids Coalition</a></td><td>Need to jump start a social media presence (web site, FB, Twitter) for an emergent Seattle-based coalition.</td></tr>
+<tr><td><a href='http://www.wahealthcareaccessalliance.org' target='_blank'>Washington Healthcare Access Alliance</a></td><td>Web and mobile-accessible health care resource page that can easily be updated by staff.</td></tr>
+<tr><td><a href='http://www.healthyfoodamerica.org/' target='_blank'>Healthy Food America</a></td><td>We would like to have an educational game built that we can use to both recruit supporters and help people learn about the actions they can take to knock sugar back to healthy levels.  </td></tr>
+<tr><td><a href='http://www.siblinghouse.org' target='_blank'>Sibling House</a></td><td>Build a new website.</td></tr>
+<tr><td><a href='http://www.soccer2unite.org' target='_blank'>Soccer2Unite</a></td><td>Build a new WordPress website.</td></tr>
+<tr><td><a href='http://bikeworks.org' target='_blank'>Bike Works</a></td><td>Website refresh and update.</td></tr>
+<tr><td><a href='http://www.wspf.org' target='_blank'>Washington State Parks Foundation</a></td><td>Add a trip report system to existing SGC-built website.</td></tr>
+<tr><td><a href='http://www.circleofchildren.org' target='_blank'>Circle of Children</a></td><td>New WordPress website.</td></tr>
+<tr><td><a href='http://www.tgcorps.org' target='_blank'>True Grace Covenant Organizations Reaching People Services</a></td><td>Migrate website to WordPress and fine tune.</td></tr>
+<tr><td><a href='https://recoverycafe.org/' target='_blank'>Recovery Cafe</a></td><td>Create a web-based time-tracking system.</td></tr>
+<tr><td><a href='http://nvsrehab.org/' target='_blank'>Neurology Vocational Services Unit</a></td><td>Refactor and improve efficiency of existing Access database.</td></tr>
+<tr><td><a href='http://www.housingconsortium.org' target='_blank'>Housing Development Consortium</a></td><td>Need help overhaul of existing Tableau database.</td></tr>
+<tr><td><a href='http://www.global-visionaries.org/' target='_blank'>Global Visionaries</a></td><td>Build WordPress website.</td></tr>
+<tr><td><a href='http://www.outinfrontseattle.org' target='_blank'>Out In Front Seattle</a></td><td>Website redesign.</td></tr>
+<tr><td><a href='http://scidpda.org' target='_blank'>SCIDpda  Seattle Chinatown International District Preservation & Development Authority</a></td><td>Refactor and improve efficiency of existing Access database for Congregate Meal Program.</td></tr>
+<tr><td><a href='https://www.amaraparenting.org/' target='_blank'>Amara</a></td><td>Create a "match.com"-like website for matching families to each other.</td></tr>
+<tr><td><a href='http://www.venturesnonprofit.org' target='_blank'>Ventures</a></td><td>Build an online directory of our client-businesses that is fully navigable by the public, searchable, and filterable. </td></tr>
+<tr><td><a href='https://tinytrees.org/' target='_blank'>Tiny Trees Preschool</a></td><td>We would like to install and customize an online database (Salesforce or equivalent wordpress plugin) to manage our online registration system.</td></tr>
+<tr><td><a href='http://www.athletesforkids.org' target='_blank'>Athletes for Kids</a></td><td>Detect security vulnerabilities in our web site and apps.</td></tr>
+<tr><td><a href='http://www.northwestharvest.org/' target='_blank'>Northwest Harvest</a></td><td>Create a website to match growers to food banks and allow them to communicate.</td></tr>
 </table>
 
 <h2>Spread the Word!</h2>

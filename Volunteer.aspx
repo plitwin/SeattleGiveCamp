@@ -15,7 +15,7 @@
         
         
         
-<!--iframe id='iframe' src='//flickrit.com/slideshowholder.php?height=550&width=1000&size=big&speed=2&count=100&group=2707854@N22&credit=2&theme=0&thumbnails=0&transition=4&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='1000' height='560'></!--iframe-->  
+<!--iframe id='iframe' src='//flickrit.com/slideshowholder.php?height=550&width=1000&size=big&speed=2&count=100&group=2707854@N22&credit=2&theme=0&thumbnails=0&transition=4&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='1000' height='560' target='_blank'></!--iframe-->  
                 
           </div>
 
