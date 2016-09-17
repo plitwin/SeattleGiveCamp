@@ -15,7 +15,44 @@
             <p>Seattle GiveCamp could not happen without the generosity of our sponsors. Their financial and in-kind support helps us continue the important work we do each year. A typical project created during GiveCamp weekend would cost a nonprofit $5,000-$10,000. By doing them for free, we allow them to allocate their financial resources to directly fulfill their mission.</p>
             <p>Sponsors help ensure that nonprofits continue to benefit from this valuable work, with no cost to participate. With your support, we also give volunteers tools to do the work (everything from printing supplies to hosting) and fuel them with food and caffeine throughout the weekend.</p>
             <p>Thank you to our Seattle GiveCamp Sponsors.</p>
-            <h2>Gold Sponsors</h2>
+        
+                <h2>Platinum Sponsors</h2>
+			<h2>
+				<a href="http://www.bestbuy.com/"> 
+					<img src="2016/BBY.png" width="500" alt="Best Buy"/>
+				</a>
+			</h2>
+
+            <p>
+                <a href="https://www.facebook.com/bestbuy/">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/BestBuy"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://www.linkedin.com/company/2127?trk=vsrp_companies_hero_name&trkInfo=VSRPsearchId%3A69488541474046779237%2CVSRPtargetId%3A2127%2CVSRPcmpt%3Ahero"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://plus.google.com/+BestBuy">
+
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+            </p>
+   <br />
+            <br />
+
+            
+                <h2>Gold Sponsors</h2>
 			<h2>
 				<a href="http://www.microsoft.com/"> 
 					<img src="../images/Sponsor/Microsoft-630x102.jpg" width="500" alt="Microsoft Logo"/>
