@@ -130,26 +130,23 @@
     </div>
         </div>
     <div class="ql">
-
-    <!--h3 class="widget-title">Event Resources</h3>
-	<a href="https://sites.google.com/site/seattlegivecampwiki/nonprofits">Projects</a>
+                           <div class="qla" style="margin-bottom:10px;">Event Resources</div>
+ 
+    <a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/nonprofits">Projects</a>
 	
-        <a href="/FAQ/Agenda.aspx">Agenda</a>
-	<a href="https://sites.google.com/site/seattlegivecampwiki/classes">Classes</a>
-	<a href="/FAQ/Location.aspx">Location</a>    
-
-
-        <div class="qla">Volunteer Registration <br /> Now Open</div>
+        <!--a href="/FAQ/Agenda.aspx">Agenda</a-->
+	<a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/classes">Classes</a>
+	<a class="suttons" href="/FAQ/Location.aspx">Location</a>    
+        
+    <!--    
+                    <div class="qla">Volunteer Registration <br /> Now Open</div>
         <a href="/volunteer.aspx"><img src="/images/volunteer-button.jpg" /></a>
         <a href="/nonprofit.aspx"><img src="/images/nonprofit-button.jpg" /></a>
         <a href="/sponsors.aspx"><img src="/images/sponsor-button.jpg" /></a>
-    <a href="http://seattlegivecamp.org/FAQ/Location.aspx">Directions</a>
     <a href="http://seattlegivecamp.org/FAQ/Agenda.aspx">Schedule</a>
-        <a href="http://seattlegivecamp.wikispaces.com/2014+Projects">Projects</a>
-     <a href="http://seattlegivecamp.wikispaces.com/Mentors">Mentor</a-->
-
+-->
         <br />
-
+            
 
                        <uc1:Social runat="server" ID="Social" />
    

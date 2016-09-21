@@ -283,6 +283,38 @@
             </p>
 			<!--concentric ends here-->
 
+                
+                             <!--CHEF-->
+			            <h2>
+             <a href="https://www.chef.io/">   
+                 <img src="2016/Chef.png" width="400" alt="Chef"/>
+             </a>
+            </h2>
+            <p>
+                <a href="https://www.facebook.com/getchefdotcom/?fref=ts">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
+                <a href="https://twitter.com/chef"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+                <a href="https://www.linkedin.com/groups/Chef-Users-Group-3751378"><span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span></a>
+
+            </p>
+
+			<p>
+            </p>
+			<!--concentric ends here-->
+
+
+
 
             </div>
                 
