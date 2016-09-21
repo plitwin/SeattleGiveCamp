@@ -12,7 +12,7 @@
         <p>Help Spread the word with these resources:</p>
         <p><strong>At the office: </strong></p>
         <p>This flier is designed to put up around your office.&nbsp; 
-            <a href="/files/Flyer 2016 v2.pdf" title="Flyer" target="_blank">Flyer</a></p>
+            <a href="/files/Flyer 2016.pdf" title="Flyer" target="_blank">Flyer</a></p>
         <p><strong>User Meeting Presentation:&nbsp; </strong></p>
         <p>If you are presenting at a user group the power point presentation can help you.&nbsp; 
             <a href="/files/SeattleGiveCamp2016.pptx" target = "_blank">Power Point Presentation</a></p>

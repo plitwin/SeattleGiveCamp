@@ -4,14 +4,13 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" runat="Server">
     <br />
-	<p style="min-height:400px;">To be announced soon..</p>
-    <!--<table class="tableizer-table">
+    <table class="tableizer-table">
         <tbody>
             <tr class="tableizer-firstrow">
                 <th>Start</th>
                 <th>End</th>
                 <th>Room</th>
-                <th>Event (Friday October 2, 2015)</th>
+                <th>Event (Friday October 14, 2016)</th>
             </tr>
             <tr>
                 <td>5:00 PM</td>
@@ -35,7 +34,7 @@
                 <td>6:00 PM</td>
                 <td>7:00 PM</td>
                 <td>&nbsp;</td>
-                <td>Pizza and salad dinner</td>
+                <td>Dinner</td>
             </tr>
             <tr>
                 <td>6:30 PM</td>
@@ -63,7 +62,7 @@
                 <th>Start</th>
                 <th>End</th>
                 <th>Room</th>
-                <th>Event (Saturday October 3, 2015)</th>
+                <th>Event (Saturday October 15, 2016)</th>
             </tr>
             <tr>
                 <td>8:00 AM</td>
@@ -145,7 +144,7 @@
                 <th>Start</th>
                 <th>End</th>
                 <th>Room</th>
-                <th>Event (Sunday October 4, 2015)</th>
+                <th>Event (Sunday October 16, 2016)</th>
             </tr>
             <tr>
                 <td>8:00 AM</td>
@@ -191,7 +190,7 @@
             </tr>
         </tbody>
     </table>
--->
+
 
 
     <style type="text/css">
