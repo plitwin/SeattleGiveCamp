@@ -547,6 +547,23 @@
             <p>
             </p>
 
+
+
+
+            <div style="float:left; width:100%; border-bottom:1px solid silver;" ></div>
+		
+            <h2>Goods and Services</h2>
+            
+<p>We would like to thank the following sponsors for their generous donations of goods & services that help make Seattle GiveCamp great!</p>
+
+<p>T-shirts: Sunrise Identity</p>
+<p>Shirt design: Gravity Creative</p>
+<p>Lanyards: Image Source</p>
+<p>Food: Panera (breakfast)</p>
+
+
+
+
 			
 			</div>
         
