@@ -49,7 +49,7 @@
     How late can we stay?
 </p>
 <p>
-    You can stay all night. However, showers are not available.
+    You can stay all night. There are limited access to showers in the mornings.
 </p>
 <p>
     Can we form our own teams?

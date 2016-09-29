@@ -132,9 +132,9 @@
     <div class="ql">
                            <div class="qla" style="margin-bottom:10px;">Event Resources</div>
  
-    <a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/nonprofits">Projects</a>
+    <a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/nonprofits">Projects Wiki</a>
 	
-        <!--a href="/FAQ/Agenda.aspx">Agenda</a-->
+        <a class="suttons" href="/FAQ/Agenda.aspx">Agenda</a>
 	<a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/classes">Classes</a>
 	<a class="suttons" href="/FAQ/Location.aspx">Location</a>    
         
