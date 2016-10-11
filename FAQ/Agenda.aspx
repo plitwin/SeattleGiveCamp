@@ -68,7 +68,7 @@
                 <td>8:00 AM</td>
                 <td>9:00 AM</td>
                 <td class="auto-style2">&nbsp;</td>
-                <td>Breakfast.&nbsp; Bagels, Donuts, Fruit</td>
+                <td>Breakfast.</td>
             </tr>
 			<tr>
                 <td>9:00 AM</td>

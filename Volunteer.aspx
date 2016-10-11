@@ -34,8 +34,9 @@
         
 <br />
     <h4>Volunteer as a technical or a non-technical role:</h4>
-    <a id="button" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/140QGq2crVZBMQIimmJ0pekcbfUU_en_iP8DowanIpPg/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Technical Volunteer</span></a>
-    <a id="button1" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/12P8fzeAO4UvWPnBtenJmwnbV-X8MbAZmnFyhDGheivY/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Non-Technical </span></a>
+    Seattle GiveCamp 2016 is now closed for registration for volunteers. We are over capactity and can no longer accept any more volunteers. Thank you.
+<%--    <a id="button" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/140QGq2crVZBMQIimmJ0pekcbfUU_en_iP8DowanIpPg/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Technical Volunteer</span></a>
+    <a id="button1" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/12P8fzeAO4UvWPnBtenJmwnbV-X8MbAZmnFyhDGheivY/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Non-Technical </span></a>--%>
 
 <h3>What volunteers do?</h3>
 
@@ -45,7 +46,7 @@
 <p>Volunteers often take the camp part of GiveCamp seriously, and pitch tents at the event so they can stay close to the action.</p>
 <h3>What else to expect for the weekend?</h3>
 <p></p>
-<p>Doors open on Friday of the event at 5 pm, with a general kick-off at 5:30 pm. Coming early? Sign in, get familiar with the space, get your WiFi set up, network, maybe help us move a few tables, and string some extension cords.</p>
+<p>Doors open on Friday of the event at 5 pm, with a general kick-off at 6:00 pm. Coming early (between 5 and 6pm)? Sign in, get familiar with the space, get your WiFi set up, network, maybe help us move a few tables, and string some extension cords.</p>
 <p>We suggest wearing or bringing comfortable, weather-appropriate clothes. If you can easily bring the tools of your trade (laptop, video camera, sketchbook, etc.) bring those, too. During GiveCamp, volunteers are welcome to go home in the evenings - or camp out all weekend long. If you’re camping, deodorant and a toothbrush are highly (highly!) recommended. It never hurts to have a spare USB key or power strip, but don’t feel you have to go out and buy things specifically for this weekend.</p>
 <p>During the weekend, volunteers complete their project and frequently help trouble-shoot issues on other projects. Then, on Sunday afternoon, everyone presents and hands off their project at the closing ceremony.</p>
 <p>Join us in extending a special thank you to our sponsors, who provide all meals and beverages throughout the event.</p>

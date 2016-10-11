@@ -79,6 +79,8 @@
         font-weight:bold;
         }
     </style> 
+    <h2>GiveCamp at Capacity!</h2>
+    <p>We are now at capacity with over 250 volunteers registered. We are no longer accepting volunteer registrations.</p>
     <h2>2016 Accepted Projects</h2>
 <p>Here are the non-profit organizations and a brief summary of the work needed for the 25 non-profits selected for Seattle GiveCamp 2016.</p>
     <style type="text/css">
@@ -113,12 +115,12 @@
 <tr><td><a href='http://www.circleofchildren.org' target='_blank'>Circle of Children</a></td><td>New WordPress website.</td></tr>
 <tr><td><a href='http://www.tgcorps.org' target='_blank'>True Grace Covenant Organizations Reaching People Services</a></td><td>Migrate website to WordPress and fine tune.</td></tr>
 <tr><td><a href='https://recoverycafe.org/' target='_blank'>Recovery Cafe</a></td><td>Create a web-based time-tracking system.</td></tr>
-<tr><td><a href='http://nvsrehab.org/' target='_blank'>Neurology Vocational Services Unit</a></td><td>Refactor and improve efficiency of existing Access database.</td></tr>
+<tr><td><a href='http://nvsrehab.org/' target='_blank'>Neurology Vocational Services Unit</a></td><td>Refactor and improve efficiency and user interface of existing Access database.</td></tr>
 <tr><td><a href='http://www.housingconsortium.org' target='_blank'>Housing Development Consortium</a></td><td>Need help overhaul of existing Tableau database.</td></tr>
 <tr><td><a href='http://www.global-visionaries.org/' target='_blank'>Global Visionaries</a></td><td>Build WordPress website.</td></tr>
 <tr><td><a href='http://www.outinfrontseattle.org' target='_blank'>Out In Front Seattle</a></td><td>Website redesign.</td></tr>
 <tr><td><a href='http://scidpda.org' target='_blank'>SCIDpda  Seattle Chinatown International District Preservation & Development Authority</a></td><td>Refactor and improve efficiency of existing Access database for Congregate Meal Program.</td></tr>
-<tr><td><a href='https://www.amaraparenting.org/' target='_blank'>Amara</a></td><td>Create a "match.com"-like website for matching families to each other.</td></tr>
+<tr><td><a href='https://www.amaraparenting.org/' target='_blank'>Amara</a></td><td>Creating S.T.A.R. (Strong, Tough And Resilient) Mentorship Program designed to connect adopted youth with adult adoptees and adults who have aged out of the foster care system.</td></tr>
 <tr><td><a href='http://www.venturesnonprofit.org' target='_blank'>Ventures</a></td><td>Build an online directory of our client-businesses that is fully navigable by the public, searchable, and filterable. </td></tr>
 <tr><td><a href='https://tinytrees.org/' target='_blank'>Tiny Trees Preschool</a></td><td>We would like to install and customize an online database (Salesforce or equivalent wordpress plugin) to manage our online registration system.</td></tr>
 <tr><td><a href='http://www.athletesforkids.org' target='_blank'>Athletes for Kids</a></td><td>Detect security vulnerabilities in our web site and apps.</td></tr>
