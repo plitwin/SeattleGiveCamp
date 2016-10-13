@@ -82,7 +82,7 @@
     <h2>GiveCamp at Capacity!</h2>
     <p>We are now at capacity with over 250 volunteers registered. We are no longer accepting volunteer registrations.</p>
     <h2>2016 Accepted Projects</h2>
-<p>Here are the non-profit organizations and a brief summary of the work needed for the 25 non-profits selected for Seattle GiveCamp 2016.</p>
+<p>Here are the non-profit organizations and a brief summary of the work needed for the 24 non-profits selected for Seattle GiveCamp 2016.</p>
     <style type="text/css">
 	table.tableizer-table {
 	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
@@ -116,7 +116,6 @@
 <tr><td><a href='http://www.tgcorps.org' target='_blank'>True Grace Covenant Organizations Reaching People Services</a></td><td>Migrate website to WordPress and fine tune.</td></tr>
 <tr><td><a href='https://recoverycafe.org/' target='_blank'>Recovery Cafe</a></td><td>Create a web-based time-tracking system.</td></tr>
 <tr><td><a href='http://nvsrehab.org/' target='_blank'>Neurology Vocational Services Unit</a></td><td>Refactor and improve efficiency and user interface of existing Access database.</td></tr>
-<tr><td><a href='http://www.housingconsortium.org' target='_blank'>Housing Development Consortium</a></td><td>Need help overhaul of existing Tableau database.</td></tr>
 <tr><td><a href='http://www.global-visionaries.org/' target='_blank'>Global Visionaries</a></td><td>Build WordPress website.</td></tr>
 <tr><td><a href='http://www.outinfrontseattle.org' target='_blank'>Out In Front Seattle</a></td><td>Website redesign.</td></tr>
 <tr><td><a href='http://scidpda.org' target='_blank'>SCIDpda  Seattle Chinatown International District Preservation & Development Authority</a></td><td>Refactor and improve efficiency of existing Access database for Congregate Meal Program.</td></tr>
