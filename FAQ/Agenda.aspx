@@ -39,7 +39,7 @@
             <tr>
                 <td>6:30 PM</td>
                 <td>7:00 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>Kick Off </td>
             </tr>
             <tr>
@@ -79,7 +79,7 @@
 			<tr>
                 <td>10:00 AM</td>
                 <td>10:50</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 10pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; line-height: 1.6;">
                     <div style="display: inline !important;">
                         <a href="https://sites.google.com/site/seattlegivecampwiki/classes/wordpress-for-developers-quick-start" style=" text-decoration: underline;">WordPress for Developers / Quick Start</a></div>
@@ -94,7 +94,7 @@
             <tr>
                 <td>11:00 PM</td>
                 <td>11:50 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 10pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; line-height: 1.6;">
                     <div style="display: inline !important;">
                         <a href="https://sites.google.com/site/seattlegivecampwiki/classes/google-grants" style="text-decoration: underline;">Google Grants and AdWords for Nonprofits</a></div>
@@ -115,7 +115,7 @@
 			<tr>
                 <td>1:00 PM</td>
                 <td>1:50 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 10pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; line-height: 1.6;">
                 </b>    <div style="display: inline !important;">
                         <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; font-size: 13.3333px; line-height: 21.3333px;"><a href="https://sites.google.com/site/seattlegivecampwiki/classes/social-media" style=" text-decoration: underline;">Social Media</a></b></div>
@@ -124,7 +124,7 @@
             <tr>
                 <td>2:00 PM</td>
                 <td>2:50 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 10pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent; line-height: 1.6;">
                     <div style="display: inline !important;">
                         <a href="https://sites.google.com/site/seattlegivecampwiki/classes/email" style=" text-decoration: underline;">Technology &amp; Effective Email</a></div>
@@ -133,13 +133,13 @@
             <tr>
                 <td>3:00 PM</td>
                 <td>3:50 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><a href="https://sites.google.com/site/seattlegivecampwiki/classes/intro-to-wordpress" style=" text-decoration: underline;">Wordpress For Non-Profits</a></b></td>
             </tr>
 			<tr>
                 <td>4:00 PM</td>
                 <td>4:50 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>[<b>Workshop/Presentation</b>] - <b style="color: rgb(68, 68, 68); font-family: Arial, Verdana, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><a href="https://sites.google.com/site/seattlegivecampwiki/classes/advanced-wordpress"  text-decoration: underline;">Intermediate Wordpress</a></b></td>
             </tr>
 			
@@ -209,13 +209,13 @@
             <tr>
                 <td>2:30 PM</td>
                 <td>4:30 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>Presentation of solutions by teams and non-profits.</td>
             </tr>
             <tr>
                 <td>4:30 PM</td>
                 <td>6:00 PM</td>
-                <td class="auto-style2">Capital Hill</td>
+                <td class="auto-style2">Capitol Hill</td>
                 <td>Final wrap-up and closing ceremonies</td>
             </tr>
         </tbody>
