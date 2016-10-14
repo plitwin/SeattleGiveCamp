@@ -21,7 +21,7 @@
             <tr>
                 <td>5:30 PM</td>
                 <td>6:00 PM</td>
-                <td class="auto-style2">All Rooms</td>
+                <td class="auto-style2">Pioneer Square/Queen Anne</td>
                 <td>Nonprofits setup their tables (optional)</td>
             </tr>
             <tr>
@@ -41,6 +41,12 @@
                 <td>8:00 PM</td>
                 <td class="auto-style2">Capitol Hill</td>
                 <td>Kick Off -- Review of how things work and overview of each project (presented by Paul Litwin)</td>
+            </tr>
+            <tr>
+                <td>8:00 PM</td>
+                <td>10:00 PM</td>
+                <td class="auto-style2">Pioneer Square/Queen Anne</td>
+                <td>Not profit reps available at tables to discuss their projects with volunteers!</td>
             </tr>
             <tr>
                 <td>8:00 PM</td>
