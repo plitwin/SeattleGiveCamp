@@ -22,7 +22,7 @@
                 <td>5:30 PM</td>
                 <td>6:00 PM</td>
                 <td class="auto-style2">All Rooms</td>
-                <td>Nonprofits Setup</td>
+                <td>Nonprofits setup their tables (optional)</td>
             </tr>
             <tr>
                 <td class="auto-style1">6:00 PM</td>
@@ -38,23 +38,17 @@
             </tr>
             <tr>
                 <td>6:30 PM</td>
-                <td>7:00 PM</td>
+                <td>8:00 PM</td>
                 <td class="auto-style2">Capitol Hill</td>
-                <td>Kick Off </td>
+                <td>Kick Off -- Review of how things work and overview of each project (presented by Paul Litwin)</td>
             </tr>
             <tr>
-                <td>7:00 PM</td>
+                <td>8:00 PM</td>
                 <td>10:00 PM</td>
                 <td class="auto-style2">All Rooms</td>
                 <td>Volunteers start to form project teams and build their solutions.</td>
             </tr>
-            <tr>
-                <td>8:00 PM</td>
-                <td>9:00 PM</td>
-                <td class="auto-style2">&nbsp;</td>
-                <td>PM Checkin</td>
-            </tr>
-           
+         
              <tr>
                 <td colspan="4"></td>
             </tr>
