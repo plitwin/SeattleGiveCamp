@@ -79,8 +79,9 @@
         font-weight:bold;
         }
     </style> 
-    <h2>GiveCamp at Capacity!</h2>
-    <p>We are now at capacity with over 250 volunteers registered. We are no longer accepting volunteer registrations.</p>
+    <h2>Seattle GiveCamp 2016 Storms Ahead!</h2>
+    <p>Yes, there is a storm in the air but it's not stopping us! What a great way to weather the storm -- coding for good at Seattle GiveCamp. 
+        Please note: we are at capactiy and no longer accepting volunteer registrations and there is no on-site registration. Those volunteers not pre-registered will be turned away.</p>
     <h2>2016 Accepted Projects</h2>
 <p>Here are the non-profit organizations and a brief summary of the work needed for the 24 non-profits selected for Seattle GiveCamp 2016.</p>
     <style type="text/css">
@@ -122,7 +123,7 @@
 <tr><td><a href='https://www.amaraparenting.org/' target='_blank'>Amara</a></td><td>Creating S.T.A.R. (Strong, Tough And Resilient) Mentorship Program designed to connect adopted youth with adult adoptees and adults who have aged out of the foster care system.</td></tr>
 <tr><td><a href='http://www.venturesnonprofit.org' target='_blank'>Ventures</a></td><td>Build an online directory of our client-businesses that is fully navigable by the public, searchable, and filterable. </td></tr>
 <tr><td><a href='https://tinytrees.org/' target='_blank'>Tiny Trees Preschool</a></td><td>We would like to install and customize an online database (Salesforce or equivalent wordpress plugin) to manage our online registration system.</td></tr>
-<tr><td><a href='http://www.athletesforkids.org' target='_blank'>Athletes for Kids</a></td><td>Detect security vulnerabilities in our web site and apps.</td></tr>
+<tr><td><a href='http://www.athletesforkids.org' target='_blank'>Athletes for Kids</a></td><td>Detect security vulnerabilities in our web site and apps. Alternately, use SalesForce to create online Mentor & Mentee system.</td></tr>
 <tr><td><a href='http://www.northwestharvest.org/' target='_blank'>Northwest Harvest</a></td><td>Create a website to match growers to food banks and allow them to communicate.</td></tr>
 </table>
 
