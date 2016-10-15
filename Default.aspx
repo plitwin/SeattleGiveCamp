@@ -127,8 +127,13 @@
 <tr><td><a href='http://www.northwestharvest.org/' target='_blank'>Northwest Harvest</a></td><td>Create a website to match growers to food banks and allow them to communicate.</td></tr>
 </table>
 
-<h2>Spread the Word!</h2>
-<p>We need your help spreading the word about Seattle GiveCamp. Like our Facebook page. Follow us on Twitter. Then share posts from our Facebook page, re-tweet our tweets, or create your own using the #SeattleGiveCamp hash tag. Of course, don’t forget to talk us up to your friends and co-workers too.</p>
+<h2>Future Seattle GiveCamps</h2>
+<p>Looking to hook up with use for future Seattle GiveCamp events?
+    <ul>
+        <li>I would like to be <a href="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLScbxk-w8d6mgitRwibAbj7zUTJ2QMmhuUKQOKWVhnv_uoaNhw/viewform">notified of volunteer opportunities</a>!</li>
+        <li>I work with a nonprofit organization and would like to be <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform">notified of future "Call for Proposals"</a>!</li>
+    </ul>
+</p>
     </div>
         </div>
     <div class="ql">

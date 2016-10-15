@@ -11,16 +11,13 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" runat="Server">
     <div class="lcol">
 
-
-
         <h1>Nonprofits</h1>
  
         <h3>How do I apply for Seattle GiveCamp 2016?</h3>
         <b>The application period is now closed. </b>See our <a href="default.aspx">home page</a> for a list of finalists.<br /><br />
         
         <h3>How do I get notified of the next "Call for Proposals"?</h3>
-        Add your email address to our list below.
-        <iframe src="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform?embedded=true" width="680" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        Add my email address <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform">to the list so I will be notified</a> the next Seattle GiveCamp sends out a call for proposals.
         <br />
         <br />
         <br />

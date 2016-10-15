@@ -17,7 +17,7 @@
         
 <!--iframe id='iframe' src='//flickrit.com/slideshowholder.php?height=550&width=1000&size=big&speed=2&count=100&group=2707854@N22&credit=2&theme=0&thumbnails=0&transition=4&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='1000' height='560' target='_blank'></!--iframe-->  
                 
-          </div>
+</div>
 
 <div class="lcol" >
 
@@ -37,6 +37,9 @@
     Seattle GiveCamp 2016 is now closed for registration for volunteers. We are over capactity and can no longer accept any more volunteers. Thank you.
 <%--    <a id="button" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/140QGq2crVZBMQIimmJ0pekcbfUU_en_iP8DowanIpPg/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Technical Volunteer</span></a>
     <a id="button1" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/12P8fzeAO4UvWPnBtenJmwnbV-X8MbAZmnFyhDGheivY/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Non-Technical </span></a>--%>
+
+<h3>Notification for Future Seattle GiveCamps</h3>
+ Want us to keep you notified of future Seattle GiveCamp volunteer opportunities? Just <a href="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLScbxk-w8d6mgitRwibAbj7zUTJ2QMmhuUKQOKWVhnv_uoaNhw/viewform">give us your email address</a> and we will keep you in the loop!
 
 <h3>What volunteers do?</h3>
 
