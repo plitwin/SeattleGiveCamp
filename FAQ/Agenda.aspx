@@ -207,16 +207,16 @@
                 <td>Work on projects.</td>
             </tr>
             <tr>
-                <td>2:30 PM</td>
-                <td>4:30 PM</td>
+                <td>2:00 PM</td>
+                <td>4:00 PM</td>
                 <td class="auto-style2">Capitol Hill</td>
-                <td>Presentation of solutions by teams and non-profits.</td>
+                <td>Turn over of solutions to nonprofit representatives.</td>
             </tr>
             <tr>
-                <td>4:30 PM</td>
+                <td>4:00 PM</td>
                 <td>6:00 PM</td>
                 <td class="auto-style2">Capitol Hill</td>
-                <td>Final wrap-up and closing ceremonies</td>
+                <td>Closing ceremonies with brief display of each project solution. Cupcakes. All attendee photo.</td>
             </tr>
         </tbody>
     </table>
