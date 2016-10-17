@@ -64,13 +64,17 @@
             </ul>			
         </div>
 
-        <h1>Sit down, Plug in, Change the World!</h1>
+        <h1>Seattle GiveCamp 2017</h1>
       
     <b style="font-size:20px;">Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons,</a> Redmond, Washington</b>
     <br />
-        <b  style="font-size:20px;">When: October 14-16, 2016</b>
- 
-
+        <b  style="font-size:20px;">When: October 6-8, 2017</b>
+    <br /><br />
+    <p>Registration is not open yet. But if wish to be notified when registration does open for our 2017 event, join our 
+        <a href="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLScbxk-w8d6mgitRwibAbj7zUTJ2QMmhuUKQOKWVhnv_uoaNhw/viewform">notification list</a>.
+        Note that if you are an alumnus of a prior Seattle GiveCamp and the email address we have is current, there is no need to join this list.
+        Nonprofit organizations can also register here to be notified of <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform">the next "Call for Proposals"</a>.
+    </p>
 <div>
     <style>
         .ql a {
@@ -79,11 +83,21 @@
         font-weight:bold;
         }
     </style> 
-    <h2>Seattle GiveCamp 2016 Storms Ahead!</h2>
-    <p>Yes, there is a storm in the air but it's not stopping us! What a great way to weather the storm -- coding for good at Seattle GiveCamp. 
-        Please note: we are at capactiy and no longer accepting volunteer registrations and there is no on-site registration. Those volunteers not pre-registered will be turned away.</p>
-    <h2>2016 Accepted Projects</h2>
-<p>Here are the non-profit organizations and a brief summary of the work needed for the 24 non-profits selected for Seattle GiveCamp 2016.</p>
+    <h2>Seattle GiveCamp 2016 was an Amazing Success</h2>
+    <p>A huge thanks goes out to all volunteers and nonprofit representatives for making Seattle GiveCamp 2016
+        an amazing success. So many wonderful people came out to work on 24 projects despite the dire warnings
+        of weather forcasters. We ate, drank, and coded for good and had a lot of fun doing it!
+
+         A few things worthy of mention:
+        <ul>
+            <li>Photos will be posted here soon.</li>
+            <li>Slack channels for each project will remain open for any post-GiveCamp communication.</li>
+            <li>Post-conference surveys will be sent to everyone who attended the event soon.</li>
+        </ul> 
+    </p>
+
+    <h2>2016 Completed Projects</h2>
+<p>Here are the non-profit organizations and a brief summary of the workplan for the 24 non-profits prior to the start of Seattle GiveCamp 2016.</p>
     <style type="text/css">
 	table.tableizer-table {
 	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif;
@@ -137,13 +151,14 @@
     </div>
         </div>
     <div class="ql">
-                           <div class="qla" style="margin-bottom:10px;">Event Resources</div>
+
+<%--                           <div class="qla" style="margin-bottom:10px;">Event Resources</div>
  
     <a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/nonprofits">Projects Wiki</a>
 	
         <a class="suttons" href="/FAQ/Agenda.aspx">Agenda</a>
 	<a class="suttons" href="https://sites.google.com/site/seattlegivecampwiki/classes">Classes</a>
-	<a class="suttons" href="/FAQ/Location.aspx">Location</a>    
+	<a class="suttons" href="/FAQ/Location.aspx">Location</a>   --%> 
         
     <!--    
                     <div class="qla">Volunteer Registration <br /> Now Open</div>
