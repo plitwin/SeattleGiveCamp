@@ -23,6 +23,7 @@
                 , pager: false
                 ,responsive:false
 , speed: 500
+                , randomStart:true
             });
 
 
@@ -47,7 +48,9 @@
                 auto: true,
                 hideControlOnEnd: true
     , pager: false,
-                speed: 340
+    speed: 340
+                                , randomStart: true
+
             });
 
             $('#go1').bxSlider({
@@ -57,7 +60,9 @@
                 auto: true,
                 hideControlOnEnd: true
     , pager: false,
-                speed:340
+                speed:4444
+                                , randomStart: true
+
             });
 
 
@@ -70,7 +75,9 @@
                 auto: true,
                 hideControlOnEnd: true
     , pager: false,
-                speed: 3340
+    speed: 340
+                                , randomStart: true
+
             });
 
 
@@ -82,7 +89,9 @@
                 auto: true,
                 hideControlOnEnd: true
    , pager: false,
-                speed: 4340
+   speed: 4340
+                                , randomStart: true
+
             });
 
 
@@ -212,6 +221,10 @@
      <li>     
          <img class="imgs" src="GlobalVisionaries/g1.png" title="Global Visionaries" />
     </li>
+         <li>     
+         <img class="imgs" src="GlobalVisionaries/Seattle%20Give%20Camp%20Groups-19%20300px%20x%20300px.jpg" title="Global Visionaries" />
+    </li>
+        
      </ul>   
      </div>      
 
@@ -301,6 +314,14 @@
 
          <img class="imgs" src="RecoveryCafe/recover11.png" title="Recovery Cafe" />
     </li>
+           <li>              
+
+         <img class="imgs" src="RecoveryCafe/revo.png" title="Recovery Cafe" />
+    </li>
+                <li>              
+
+         <img class="imgs" src="RecoveryCafe/revo2.png" title="Recovery Cafe" />
+    </li>
      </ul>   
      </div>    
 
@@ -320,14 +341,14 @@
 
 
     
-<!--        <div class="uber" >
+        <div class="uber" >
     <ul class="go"  onclick="goToIt('SeattleHealthyKidsCoalition')" >  
      <li>     
-         <img class="imgs" src="RecoveryCafe/recover11.png" title="Seattle Healthy Kids Coalition" />
+         <img class="imgs" src="SeattleHealthyKidsCoalition/Seattle%20Give%20Camp%20Groups-16%20300px%20x%20300px.jpg" title="Seattle Healthy Kids Coalition" />
     </li>
      </ul>   
      </div>    
-    -->
+   
     
         <div class="uber" >
     <ul class="go"  onclick="goToIt('SiblingHouse')" >  
@@ -352,9 +373,12 @@
         <li>     
          <img class="imgs" src="Soccer2Unite/Seattle%20Give%20Camp%20Groups-13%20300px%20x%20300px.jpg" title="Soccer2Unite" />
     </li>
+        <li>     
+         <img class="imgs" src="Soccer2Unite/sd.png" title="Soccer2Unite" />
+    </li>
+
      </ul>   
      </div>      
-    
 
         <div class="uber" >
     <ul class="go"  onclick="goToIt('SomaliYouthandFamilyClub')" >  
@@ -386,7 +410,7 @@
          <img class="imgs" src="Transitions/trans1.png" title="Transitions" />
     </li>
      <li>     
-         <img class="imgs" src="Transitions/300px" title="Transitions" />
+         <img class="imgs" src="Transitions/300px.jpg" title="Transitions" />
     </li>
    
           </ul>   
@@ -409,10 +433,22 @@
      <li>     
          <img class="imgs" src="Ventures/ventur1.png" title="Ventures" />
     </li>
+        <li>     
+         <img class="imgs" src="Ventures/Seattle%20Give%20Camp%20Groups-18%20300px%20x%20300px.jpg" title="Ventures" />
+    </li>
      </ul>   
      </div>      
     
 
+
+        <div class="uber" >
+    <ul class="go"  onclick="goToIt('WashingtonHealthcareAccessAlliance')" >  
+     <li>     
+         <img class="imgs" src="WashingtonHealthcareAccessAlliance/Seattle%20Give%20Camp%20Groups-12%20300px%20x%20300px.jpg" title="Washington Healthcare Access Alliance" />
+    </li>
+     </ul>   
+     </div>      
+    
     
     
         <div class="uber" >
@@ -429,6 +465,9 @@
      <li>     
          <img class="imgs" src="YWCA/fire11.png" title="YWCA" />
     </li>
+     <li>     
+                  <img class="imgs" src="YWCA/Seattle%20Give%20Camp%20Groups-17%20300px%20x%20300px.jpg" title="YWCA" />
+    </li>   
      </ul>   
      </div>      
     

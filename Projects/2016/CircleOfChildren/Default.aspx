@@ -13,9 +13,7 @@
 
     <h2>Project</h2>
     New Website
-  <h2>Team</h2>
-    <img src="http://streamdata.io/wp-content/uploads/2016/01/spinning-wheel.gif?x69489" />
-<h2>Before</h2>
+ <h2>Before</h2>
     <img src="before.png" />
 
     <h2>After</h2>
