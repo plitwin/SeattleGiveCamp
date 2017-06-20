@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Volunteer.aspx.cs" Inherits="Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Volunteer.aspx.cs" Inherits="Volunteer" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 
@@ -28,20 +28,23 @@
 
     <!--p style="margin-top:20px;">Planning for Seattle GiveCamp 2016 is underway.  Put yourself on our <a href="http://goo.gl/forms/Sp9YPDPCIB" >mailing list</a> to get the latest updates for SGC 2016.</p-->
 
-    <b style="font-size:20px;">Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons</a></b>
+    <b>Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons</a></b>
     <br />
-        <b  style="font-size:20px;">When: October 6-8, 2017. More details to come soon.</b>
+        <b>When: October 6-8, 2017. More details to come soon.</b>
         
 <br />
-    <h4>Volunteer as a technical or a non-technical role:</h4>
+    <h4>Volunteer as a technical or a non-technical role</h4>
     Seattle GiveCamp 2017 should open sometime in June for volunteers. Please see below if you wish to be notified when it opens.
 <%--    <a id="button" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/140QGq2crVZBMQIimmJ0pekcbfUU_en_iP8DowanIpPg/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Technical Volunteer</span></a>
     <a id="button1" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/12P8fzeAO4UvWPnBtenJmwnbV-X8MbAZmnFyhDGheivY/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Non-Technical </span></a>--%>
 
-<h3>Notification for Future Seattle GiveCamps</h3>
+<h4>Notification for Seattle GiveCamp 2017 Opening</h4>
  Want us to keep you notified of future Seattle GiveCamp volunteer opportunities? Just <a href="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLScbxk-w8d6mgitRwibAbj7zUTJ2QMmhuUKQOKWVhnv_uoaNhw/viewform">give us your email address</a> and we will keep you in the loop!
 
-<h3>What volunteers do?</h3>
+<h4>2017 is Going To be Different!</h4>
+    This year we are doing things a bit different. We will be making this GiveCamp more exciting for developers. All our work will be on mobile apps and each team will be led by a seasoned mobile developer.
+    Furthermore, we will include some training in the use of the Xamarin mobile platform prior to the GiveCamp weekend. We will also have need for graphic designers and non-technical support staff. Stay tuned for more details which should be released very soon.
+<%--<h3>What volunteers do?</h3>
 
     <p style="margin-top:20px;">Use your technical and creative skills to help nonprofit organizations reach their full potential at Seattle GiveCamp. Nearly 200 software and database developers, coders, business analysts, graphic designers, marketing professionals, copy writers, video producers, photographers, social media experts and food service volunteers, who participate in GiveCamp on an annual basis, donating more than 5,000 hours throughout the weekend.</p>
 <p>Volunteers make Seattle GiveCamp happen. Our planning committee - all volunteers - works throughout the year, to plan the event, raise sponsorship dollars, recruit volunteers and coordinate event details. Volunteers represent dozens of companies throughout Washington State, or are current students at area universities.</p>
@@ -52,7 +55,7 @@
 <p>Doors open on Friday of the event at 5 pm, with a general kick-off at 6:00 pm. Coming early (between 5 and 6pm)? Sign in, get familiar with the space, get your WiFi set up, network, maybe help us move a few tables, and string some extension cords.</p>
 <p>We suggest wearing or bringing comfortable, weather-appropriate clothes. If you can easily bring the tools of your trade (laptop, video camera, sketchbook, etc.) bring those, too. During GiveCamp, volunteers are welcome to go home in the evenings - or camp out all weekend long. If you’re camping, deodorant and a toothbrush are highly (highly!) recommended. It never hurts to have a spare USB key or power strip, but don’t feel you have to go out and buy things specifically for this weekend.</p>
 <p>During the weekend, volunteers complete their project and frequently help trouble-shoot issues on other projects. Then, on Sunday afternoon, everyone presents and hands off their project at the closing ceremony.</p>
-<p>Join us in extending a special thank you to our sponsors, who provide all meals and beverages throughout the event.</p>
+<p>Join us in extending a special thank you to our sponsors, who provide all meals and beverages throughout the event.</p>--%>
 
 </div>
 <div>

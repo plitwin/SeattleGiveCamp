@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Default1.aspx.cs" Inherits="Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Default1.aspx.cs" Inherits="Default1" %>
 
 <%@ Register Src="control/Social.ascx" TagPrefix="uc1" TagName="Social" %>
 

@@ -33,8 +33,6 @@
                 <a id="MenuNonProfit" href="/nonprofit.aspx">nonprofit</a>
                 <a id="MenuSponsors" href="/sponsors/default.aspx">sponsors</a>
                 <a id="MenuAbout" href="/about.aspx">about</a>
-                
-
             </div>
 
         </div>
@@ -44,7 +42,8 @@
         <asp:ContentPlaceHolder id="Body" runat="server">
         
         </asp:ContentPlaceHolder>
-              <footer style="border-top:1px solid silver;float: left;width: 100%;">
+      
+              <footer style="border-top:1px solid silver;float: left;width: 100%;margin-top:3em;">
                   <div class="footer-left">
 					<p><a href="http://seattlegivecamp.org/">&copy; <%=DateTime.Today.Year%> Seattle GiveCamp</a> | <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a> | Seattle GiveCamp is a 501(c)(3) nonprofit </p>
 			</div>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Nonprofit.aspx.cs" Inherits="Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="Nonprofit.aspx.cs" Inherits="Nonprofit" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
 
@@ -17,16 +17,18 @@
         device applications that run on Apple iOS, Android, or Microsoft phones and tablets.<br /><br />
         
         <h3>Submitting a Proposal</h3>
-        There's 4 basic steps to submitting a winning proposal for Seattle GiveCamp 2017:
+        There's five basic steps to submitting a winning proposal for Seattle GiveCamp 2017:
         <ol>
-            <li>Read the call for proposals which you likely received as an email. 
-                Can't find the email? No problem, see the <a href="">online call for proposals</a>. </li>
-            <li>Study the <a href="">rules and guidelines</a>. 
-            And don't forget to block off your calendar for the weekend of Oct 6-8.</li>
+            <li>Read carefully the call for proposals which you likely received as an email. 
+                Can't find the email? No problem, checkout the <a href="Nonprofit_CFP.aspx">Call for Proposals</a> here. </li>
+            <li>Study the <a href="Nonprofit_Rules.aspx">Rules and Guidelines</a>.</li>
+            <li>Block off your calendar for the weekend of Oct 6-8.</li>
             <li>Brainstorm a great mobile app that your organization needs & that furthers your mission.</li>
-            <li>Complete the Seattle GiveCamp 2017 application by July 23rd. 
-                If you can, try to meet the earlybird deadline of July 9th.</li>
+            <li>Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvcS-mJts0ndUkAZIydS-bgfNMGwW2s_W6tge-IH38-g50FA/viewform?usp=sf_link" target="_blank">Seattle GiveCamp 2017 Nonprofit Application</a> by July 23rd. 
+                If you can, try to get it in by the earlybird deadline of July 9th.</li>
         </ol>    
     </div>
+<br /><br /><br />
+
 </asp:Content>
 

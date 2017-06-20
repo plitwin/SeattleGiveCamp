@@ -12,7 +12,7 @@
 </script> 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" Runat="Server">
-   <script src="js/Default.js"></script>
+    <script src="js/Default.js"></script>
     <div class="lcol">
 <!--iframe id='iframe' src='//flickrit.com/slideshowholder.php?height=450&width=696&size=big&speed=2&count=100&group=2707854@N22&credit=2&trans=1&thumbnails=0&transition=0&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='696' height='450'></iframe-->
         <div id="slider" style="height:500px;"  >
@@ -66,22 +66,22 @@
 
         <h1>Seattle GiveCamp 2017, Mobile Edition!</h1>
       
-    <b style="font-size:20px;"><b>Where:</b> <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons,</a> Redmond, Washington</b>
-    <br />
-    <b  style="font-size:20px;"><b>When:</b> October 6-8, 2017</b>
-    <br />
-    <b  style="font-size:20px;"><b>What:</b> This year, we have decided to create a more focused event and our focus will be on developing
+    <b>Where:</b> <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons,</a> Redmond, Washington.
+    <br /> <br />
+    <b>When:</b> October 6-8, 2017.
+    <br /> <br />
+    <b> What:</b> This year, we have decided to create a more focused event and our focus will be on developing
         mobile apps. And the development platform will be <a href="https://www.xamarin.com/">Xamarin</a> which we will use
-        to create killer mobile apps for about a dozen lucky nonprofit organizations.
-    </b>
-    <br />
-    <b  style="font-size:20px;"><b>Call for Proposals:</b> Now open! 
+        to create amazing mobile apps for about a dozen lucky nonprofit organizations.
+
+    <br /> <br />
+    <b>Call for Proposals:</b> Now open! Read more and apply on the <a href="Nonprofit.aspx">Nonprofit application</a> page.
     <!--Nonprofit organizations can also register here to be notified of <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu-aPr-WEqaiMPEXT__HidKsVYfYRYZNKh1RTMs-2ga63STQ/viewform">the next "Call for Proposals"</a>.-->
-    <br />
-    <b  style="font-size:20px;"><b>Volunteers:</b> Volunteer Registration is not open yet. It will open by the end of June. If wish to be notified when registration does open for our 2017 event, join our 
+    <br /> <br />
+    <b>Volunteers:</b> Volunteer Registration is not open yet because we are revamping our volunteer process and application form. It will open by the end of June. If wish to be notified when registration does open for our 2017 event, join our 
         <a href="https://docs.google.com/a/litwinconsulting.com/forms/d/e/1FAIpQLScbxk-w8d6mgitRwibAbj7zUTJ2QMmhuUKQOKWVhnv_uoaNhw/viewform">notification list</a>.
         Note that if you are an alumnus of a prior Seattle GiveCamp and the email address we have is current, there is no need to join this list.
-    </p>
+
 <div>
     </div>
         </div>
@@ -114,5 +114,6 @@
         }
     </style>
     </div>
+    <br /><br /><br />
 </asp:Content>
 

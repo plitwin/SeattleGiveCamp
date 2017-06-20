@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="History.aspx.cs" Inherits="Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="Master/GiveCamp.master" AutoEventWireup="true" CodeFile="History.aspx.cs" Inherits="History" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
           <script>
@@ -29,7 +29,7 @@ have delivered over a hundred completed projects to our grateful nonprofit organ
         font-weight:bold;
         }
     </style> 
-    <h2>Seattle GiveCamp 2016 was an Amazing Success</h2>
+    <h5>Seattle GiveCamp 2016 was an Amazing Success</h5>
     <p>A huge thanks goes out to all volunteers and nonprofit representatives for making Seattle GiveCamp 2016
         an amazing success. So many wonderful people came out to work on 24 projects despite the dire warnings
         of weather forcasters. We ate, drank, and coded for good and had a lot of fun doing it!
@@ -42,7 +42,7 @@ have delivered over a hundred completed projects to our grateful nonprofit organ
         </ul> 
     </p>
 
-    <h2>2016 Completed Projects</h2>
+    <h5>2016 Completed Projects</h5>
 <p>Here are the non-profit organizations and a brief summary of the workplan for the 24 non-profits prior to the start of Seattle GiveCamp 2016.</p>
     <style type="text/css">
 	table.tableizer-table {

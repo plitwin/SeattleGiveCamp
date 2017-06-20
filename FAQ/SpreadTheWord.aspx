@@ -1,14 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="../Master/GiveCamp.master" AutoEventWireup="true" CodeFile="SpreadTheWord.aspx.cs" Inherits="Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-
-
-
-
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" Runat="Server">
     <section class="template medium to-left list-view large-icons">
-        <article class="post-103 page type-page status-publish hentry">
+        <i>More details on helping to spread the word coming soon!</i>
+<%--        <article class="post-103 page type-page status-publish hentry">
         <p>Help Spread the word with these resources:</p>
         <p><strong>At the office: </strong></p>
         <p>This flier is designed to put up around your office.&nbsp; 
@@ -25,7 +22,7 @@
         <p>You can also invite your friends with this 
             <a onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" 
                 href="https://www.facebook.com/events/903888719738984/" target="_blank">Facebook event</a>.</p>
-        </article>
+        </article>--%>
     </section>
 </asp:Content>
 

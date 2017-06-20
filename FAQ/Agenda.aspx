@@ -4,6 +4,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Body" runat="Server">
     <br />
+    <i>To come.</i>
+    <!--
     <table class="tableizer-table">
         <tbody>
             <tr class="tableizer-firstrow">
@@ -220,7 +222,7 @@
             </tr>
         </tbody>
     </table>
-
+    -->
 
 
     <style type="text/css">

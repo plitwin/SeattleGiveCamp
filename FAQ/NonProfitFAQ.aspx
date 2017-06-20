@@ -47,13 +47,13 @@
 </p>
 <ul type="disc">
     <li>
-        A representative from your charity <b>must attend the kick-off meeting on Friday from <u>6pm to 9pm (possibly a little later)</u></b>. 
+        A representative from your charity <b>must attend the kick-off meeting on Friday from <u>6pm to 10pm (possibly a little later)</u></b>. 
         This person should be knowledgeable about the proposal document
         and the work that our developers are being asked to do.
     </li>
     <li>
         At least one representative from your organization <b>must be available <u>on site</u> for 
-            <u>at least two hours</u> on Saturday</b> and be available by phone at other times (9am to 6pm) 
+            <u>at least four hours</u> on Saturday</b> and be available by phone at other times (9am to 6pm) 
             so that any questions about the
         application can be answered and the team has the information they need to complete their 
             assigned tasks.
@@ -65,8 +65,8 @@
     </li>
     <li>
         Lastly, at least one member of your organization <b>must be <u>on site</u> for the handoff and final presentation
-        on Sunday during the hours of <u>1pm to 6pm</u></b> to see the results and take possession of the application. The
-        people you send should include the organization’s technical expert, if possible.
+        on Sunday during the hours of <u>noon to 6pm</u></b> to see the results and take possession of the application. The
+        people you send must include the organization’s technical expert.
     </li>
 </ul>
 <p>
@@ -85,24 +85,26 @@
     What should my Nonprofit Proposal include?
 </h2>
 <p>
-    Your proposal will be used to help us decide if your proposal will be accepted. Read each question carefully and answer it honestly. Tips:
+    Your proposal will be used to help us decide if your proposal will be accepted. Read each question carefully and answer it honestly. Follow these tips:
 </p>
 <ul type="disc">
     <li>
         Answer each question succinctly but with adequate information.</li>
     <li>
-        Don&#39;t be ambiguous.</li>
+        Start with a great idea for your mobile app.</li>
     <li>
-        Focus on one or a few related items for your proposal. Do not give us a laundry list of what you would like.</li>
+        Read and re-read the <a href="../Nonprofit_CFP.aspx">Call for Proposals</a> and the 
+        <a href="../Nonprofit_Rules.aspx">Rules and Guidelines</a> before beginning the application.</li>
     <li>
-        Realize that in most cases, you will have to pay any licensing fees for software or web hosting and make sure your organization can afford the cost.</li>
+        Realize that you may have to pay some hosting fees to host the app and backend services to support the app. These fees should be nominal, however.</li>
     <li>
         Magic can happen during the GiveCamp weekend but we can&#39;t do the impossible. Be realistic in your expectations.</li>
     <li>
-        If you expect to be on vacation or on a trip during the review period (between July and September), make sure to include an alternate contact person at your organization who can answer any questions about your proposal.</li>
+        If you expect to be on vacation or on a trip during the review period (between July and September), make 
+        sure to include an alternate contact person at your organization who can answer any questions about your proposal.</li>
 </ul>
 <p>
-    See the <a href="http://seattlegivecamp.org/NonProfit.aspx">nonprofit proposal form</a> for more details.
+    See the <a href="http://seattlegivecamp.org/NonProfit.aspx">nonprofit page</a> for more details.
 </p>
 <h2>
     What if I am not sure what to propose?
@@ -115,11 +117,10 @@
 </h2>
 <p>
     Before the submission deadline, submit a new proposal and mention in the notes that this proposal replaces
-    the original proposal from your organization.
-    After the submission deadline, you ask you not to alter your proposal unless you learn new information that
-    affects the proposal (e.g., my contact info has changed, I am leaving the organization and wish to hand off to another individual at
-    my organization, our web hosting company or software has 
-    changed since the submission, or we wish to withdraw our proposal). 
+    the original proposal from your organization. (We will only consider one proposal per organization!)
+    After the submission deadline, we ask you not to alter your proposal unless you learn new information that
+    affects the proposal (e.g., your contact info has changed, you are leaving the organization and wish to hand off to another individual at
+    my organization, or you wish to withdraw our proposal). 
     You can email us at <a href="mailto:info@seattlegivecamp.org">info@seattlegivecamp.org</a>. Make sure
     you mention the organization name and the name of the person who originally submitted the proposal.
 </p>
@@ -133,21 +134,20 @@
     What happens after I am selected?
 </h2>
 <p>
-    If you are one of the charities that are selected, we will contact you to finalize your design requirements and what we will expect of you.
+    If you are one of the organizations that are selected, we will contact you to finalize your 
+    design requirements and what we will expect of you.
 </p>
 <h2>When do we have to be at Seattle GiveCamp?</h2> 
 <p>See above under <strong>What do you need from me?</strong> for details.</p>
-        <h2>
+
+<h2>
     What if no one from my organization can make it to the event?</h2>
 <p>Someone from oganization must be there at GiveCamp. This is not negotiable. See above under <strong>What do you need from me?</strong> for details.</p>
 <h2>
     Will I be able to update the application or solution that the Seattle GiveCamp vounteers worked on?
 </h2>
 <p>
-    Yes. Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that someone from the
-    organization be on site Sunday afternoon so we can share that information with your organization. And depending on the technology used, this person
-    may need to be technical.
-</p>
+    Yes. Each nonprofit will be provided transition information in how to maintain their application once the weekend is over. This is why it is critical that a technical person from your organization be on site Sunday afternoon so we can share that information with them.</p>
 
 <h2>
     Will Seattle GiveCamp volunteers support my solution after Seattle GiveCamp?
