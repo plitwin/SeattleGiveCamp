@@ -39,18 +39,17 @@
             Many of these individuals have been involved with the event since its inception and continue to dedicate hundreds of hours each year to make it possible.</p>
 
             <h3>Officers & Planning Committee Volunteers</h3>
-            Seattle GiveCamp is a 501(c)(3) nonprofit organization run by a team of four officers (who also make up the board) and a number of planning 
-            committee volunteers...
+            Seattle GiveCamp is a 501(c)(3) nonprofit organization run by a team of four officers (who also make up the board):
             <ul>
                 <li>Paul Litwin, President</li>
                 <li>Mike Roshak, Vice President</li>
                 <li>Charles Rundles, Treasurer</li>
                 <li>Suzanna Litwin, Secretary</li>
-                <li>Rena Cummings, Planning Committee Volunteer</li>
+<!--                <li>Rena Cummings, Planning Committee Volunteer</li>
                 <li>Sabra Goldick, Planning Committee Volunteer</li>
                 <li>Adrienne Kreft, Planning Committee Volunteer</li>
                 <li>Julie St. George, Planning Committee Volunteer</li>
-                <li>David Rogers, Planning Committee Volunteer</li>
+                <li>David Rogers, Planning Committee Volunteer</li>-->
             </ul>
         </div>
 

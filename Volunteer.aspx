@@ -30,11 +30,11 @@
 
     <b style="font-size:20px;">Where: <a href="https://www.google.com/maps/place/Microsoft+-+The+Commons/@47.644516,-122.136812,17z/data=!3m1!4b1!4m2!3m1!1s0x54906d6db01d8965:0x27c3343b0b6b0f42?hl=en">Microsoft Commons</a></b>
     <br />
-        <b  style="font-size:20px;">When: 14th October at 5pm  until 16th October 4pm</b>
+        <b  style="font-size:20px;">When: October 6-8, 2017. More details to come soon.</b>
         
 <br />
     <h4>Volunteer as a technical or a non-technical role:</h4>
-    Seattle GiveCamp 2016 is now closed for registration for volunteers. We are over capactity and can no longer accept any more volunteers. Thank you.
+    Seattle GiveCamp 2017 should open sometime in June for volunteers. Please see below if you wish to be notified when it opens.
 <%--    <a id="button" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/140QGq2crVZBMQIimmJ0pekcbfUU_en_iP8DowanIpPg/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Technical Volunteer</span></a>
     <a id="button1" style="margin-left:100px;" target="_blank" href="https://docs.google.com/forms/d/12P8fzeAO4UvWPnBtenJmwnbV-X8MbAZmnFyhDGheivY/viewform" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Non-Technical </span></a>--%>
 

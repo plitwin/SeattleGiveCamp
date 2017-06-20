@@ -1188,26 +1188,32 @@
         <p class="p1 ft1">Sponsor Benefits</p>
         <div id="id_1">
             <a id="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" href="mailto:sponsor@seattlegivecamp.org" style="float: right; margin-top: -40px; margin-right:35px;">
-                <span class="ui-button-text">Sponsor GiveCamp</span>
+                <span class="ui-button-text">Sponsor GiveCamp 2017</span>
             </a>
         </div>
 
 
         <p class="p6 ft1">What is GiveCamp?</p>
         <p class="p2 ft2">
-            Seattle GiveCamp is a weekend-long event where software development professionals from developers to designers and project managers donate their time to provide solutions for non-profit organizations. Since its inception in 2011, Seattle GiveCamp has provided over 12,000 developer & designer service hours to benefit over 80 local charities.
+            Seattle GiveCamp is a weekend-long event where software development professionals 
+            from developers to designers and project managers donate their time to provide 
+            solutions for non-profit organizations. Since its inception in 2011, Seattle GiveCamp 
+            has provided over 15,000 developer & designer service hours to benefit over 100 local charities.
 
         </p>
 
         <p class="p2 ft4">
-            This year marks the sixth Seattle GiveCamp. We anticipate an estimated 150+ volunteers will contribute an estimated half million dollars in volunteer development and design work, from websites to mobile apps. Many tech volunteers take the meaning of GiveCamp literally, bringing sleeping bags and committing their entire weekend to GiveCamp (not counting the few hours spent sleeping onsite) with us on our mini-campus.
+            This year marks the seventh Seattle GiveCamp. We anticipate an estimated 150+ volunteers will contribute an estimated half million dollars in volunteer development and design work, from websites to mobile apps. Many tech volunteers take the meaning of GiveCamp literally, bringing sleeping bags and committing their entire weekend to GiveCamp (not counting the few hours spent sleeping onsite) with us on our mini-campus.
 
         </p>
 
         <p class="p2 ft4">
-            As an all-volunteer-run event, 100% of Seattle GiveCamp's sponsorship money is spent on taking care of the tech volunteers as the create apps and web sites for the charities. It is our way of thanking them for donating their time and energy for an entire weekend. Sponsorship is needed for practical items, like covering the cost of the venue, AV, security, meals, drinks & snacks, web hosting, on-site support, and a t-shirt to remember the experience.
-    
+            As an all-volunteer-run event, 100% of Seattle GiveCamp's sponsorship money is spent on taking care of the tech volunteers as the create apps and web sites for the charities. It is our way of thanking them for donating their time and energy for an entire weekend. Sponsorship is needed for practical items, like covering the cost of the venue, AV, security, meals, drinks & snacks, web hosting, on-site support, and a t-shirt to remember the experience. 
         </p>
+        <p class="p2 ft4">
+        Email us become a sponsor or learn more at <a href="mailto:sponsor@seattlegivecamp.org">info@Seattlegivecamp.org</a>.    
+        </p>
+
         <!--
         <p class="p6 ft1">Prime Media Coverage</p>
         <p class="p7 ft4">Sponsors receive prime media exposure prior to and during the event. We actively engage with regional media outlets and utilize social media
@@ -1278,9 +1284,10 @@
             </div>
         </div>
     </div>
-    <div id="id_3_2_2">
-        <p class="p38 ft18">Complete an application to be a sponsor for this year’s</p>
-        <p class="p39 ft19">Seattle GiveCamp</p>
+    <div>
+        <p  style="padding-left:45px;">Email us become a sponsor or learn more at <a href="mailto:sponsor@seattlegivecamp.org">info@seattlegivecamp.org</a>.</p>
+        <br />
+        <br />
     </div>
 
 
@@ -1353,10 +1360,6 @@
         }
     </style>
 
-
-    <div id="id_4">
-        <p class="p9 ft20" style="float: left; width: 100%;">Questions? Contact us at info@Seattlegivecamp.org</p>
-    </div>
 
 </asp:Content>
 
