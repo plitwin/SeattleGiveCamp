@@ -20,7 +20,7 @@
                 <h2>Gold Sponsors</h2>
 			<h2>
 				<a href="http://www.microsoft.com/"> 
-					<img src="../images/Sponsor/Microsoft-630x102.jpg" width="500" alt="Microsoft Logo"/>
+					<img src="../images/Sponsor/Microsoft-Logo-PNG-2017_June.png" width="500" alt="Microsoft Logo"/>
 				</a>
 			</h2>
 
